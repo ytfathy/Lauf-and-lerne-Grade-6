@@ -1,5 +1,5 @@
 import React, { useEffect } from 'react';
-import { BookOpen, Play, Settings, Trophy } from 'lucide-react';
+import { BookOpen, LogOut, Play, Settings, Trophy } from 'lucide-react';
 import openingBgImg from '../assets/images/opening_german_railway_bg_1794679756610.jpg';
 import { GAME_TITLE } from '../game/constants';
 import {
@@ -115,6 +115,17 @@ export function OpeningScreen({
           </div>
         ))}
       </div>
+
+      {/* Top-Left: Logout (login gate route handled by middleware.js on Vercel) */}
+      <a
+        href="/auth/logout"
+        data-testid="opening-logout-btn"
+        style={{ textDecoration: 'none' }}
+        className="absolute top-3 left-3 sm:top-4 sm:left-6 z-30 flex items-center gap-1.5 px-3.5 py-1.5 rounded-full bg-gradient-to-b from-[#38bdf8] via-[#0284c7] to-[#1e40af] hover:from-[#60a5fa] hover:to-[#1d4ed8] active:translate-y-0.5 text-white font-black text-sm border-2 border-white/95 shadow-[0_3px_0_#072566,0_6px_12px_rgba(4,15,44,0.45)] transition-transform"
+      >
+        <LogOut className="w-4 h-4 shrink-0" />
+        <span>Abmelden</span>
+      </a>
 
       {/* Top-Right: Official International Education Egypt Brand Logo (Blended, No Borders) */}
       <div className="absolute top-3 right-3 sm:top-4 sm:right-6 z-30 pointer-events-none flex flex-col items-end gap-1.5">
