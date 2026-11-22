@@ -1,0 +1,204 @@
+@import "tailwindcss";
+
+@layer base {
+  html,
+  body,
+  #root {
+    width: 100%;
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #0b1021;
+    font-family: 'Nunito', 'Trebuchet MS', system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+    -webkit-tap-highlight-color: transparent;
+    touch-action: none;
+  }
+}
+
+.tabular-nums {
+  font-variant-numeric: tabular-nums;
+}
+
+.hud-stroke {
+  text-shadow:
+    0 2px 0 rgba(9, 13, 28, 0.92),
+    0 4px 12px rgba(9, 13, 28, 0.72);
+}
+
+.title-stroke-blue {
+  text-shadow:
+    0 3px 0 #072663,
+    0 -2px 0 #072663,
+    2px 0 0 #072663,
+    -2px 0 0 #072663,
+    0 6px 14px rgba(4, 15, 44, 0.65);
+}
+
+@keyframes floatSlow {
+  0%, 100% { transform: translateY(0px); }
+  50% { transform: translateY(-4px); }
+}
+
+.animate-float-slow {
+  animation: floatSlow 2.6s ease-in-out infinite;
+}
+
+@keyframes bgParallaxDrift {
+  0%, 100% { transform: scale(1.07) translate3d(-1.2%, 0px, 0); }
+  50% { transform: scale(1.09) translate3d(1.2%, -0.8%, 0); }
+}
+
+.animate-bg-drift {
+  animation: bgParallaxDrift 18s ease-in-out infinite;
+  will-change: transform;
+}
+
+@keyframes malekIdleMotion {
+  0%, 100% {
+    transform: translate3d(0, 0px, 0) scale(1, 1) rotate(-0.6deg);
+  }
+  25% {
+    transform: translate3d(2px, -6px, 0) scale(1.012, 0.992) rotate(0.4deg);
+  }
+  50% {
+    transform: translate3d(0px, -11px, 0) scale(0.994, 1.016) rotate(0.9deg);
+  }
+  75% {
+    transform: translate3d(-2px, -5px, 0) scale(1.01, 0.995) rotate(-0.3deg);
+  }
+}
+
+.animate-malek-idle {
+  animation: malekIdleMotion 3.2s ease-in-out infinite;
+  transform-origin: bottom center;
+  will-change: transform;
+}
+
+@keyframes malekBlinkLid {
+  0%, 92%, 97%, 100% {
+    transform: scaleY(0);
+    opacity: 0;
+  }
+  94.5% {
+    transform: scaleY(1);
+    opacity: 1;
+  }
+}
+
+.animate-malek-blink {
+  animation: malekBlinkLid 3.8s ease-in-out infinite;
+  transform-origin: top center;
+}
+
+@keyframes titleEntrance {
+  0% {
+    opacity: 0;
+    transform: translate3d(0, -18px, 0) scale(0.9);
+  }
+  100% {
+    opacity: 1;
+    transform: translate3d(0, 0px, 0) scale(1);
+  }
+}
+
+.animate-title-enter {
+  animation: titleEntrance 0.55s cubic-bezier(0.16, 1, 0.3, 1) both;
+}
+
+@keyframes coinFloatSpin {
+  0%, 100% {
+    transform: translate3d(0, 0px, 0) rotateY(0deg) scale(1);
+  }
+  25% {
+    transform: translate3d(0, -7px, 0) rotateY(22deg) scale(1.04);
+  }
+  50% {
+    transform: translate3d(0, -12px, 0) rotateY(0deg) scale(1.07);
+  }
+  75% {
+    transform: translate3d(0, -5px, 0) rotateY(-22deg) scale(1.03);
+  }
+}
+
+.animate-coin-float {
+  animation: coinFloatSpin 3.1s ease-in-out infinite;
+  will-change: transform;
+}
+
+@keyframes sparklePulse {
+  0%, 100% {
+    opacity: 0.25;
+    transform: scale(0.7) rotate(0deg);
+  }
+  50% {
+    opacity: 1;
+    transform: scale(1.2) rotate(35deg);
+  }
+}
+
+.animate-sparkle {
+  animation: sparklePulse 2.4s ease-in-out infinite;
+  will-change: transform, opacity;
+}
+
+@keyframes sunraySweep {
+  0%, 100% {
+    opacity: 0.42;
+    transform: scale(1);
+  }
+  50% {
+    opacity: 0.65;
+    transform: scale(1.04);
+  }
+}
+
+.animate-sunray {
+  animation: sunraySweep 7s ease-in-out infinite;
+  will-change: transform, opacity;
+}
+
+@keyframes playButtonPulse {
+  0%, 100% {
+    filter: brightness(1) drop-shadow(0 6px 14px rgba(22, 163, 74, 0.4));
+  }
+  50% {
+    filter: brightness(1.08) drop-shadow(0 10px 24px rgba(74, 222, 128, 0.72));
+  }
+}
+
+.animate-play-pulse {
+  animation: playButtonPulse 2.1s ease-in-out infinite;
+}
+
+@keyframes checkpointPop {
+  0% { opacity: 0; transform: scale(0.92) translateY(12px); }
+  100% { opacity: 1; transform: scale(1) translateY(0px); }
+}
+
+.animate-checkpoint-pop {
+  animation: checkpointPop 0.24s cubic-bezier(0.16, 1, 0.3, 1) both;
+}
+
+@keyframes coinBurstFloat {
+  0% { opacity: 0; transform: translateY(10px) scale(0.75); }
+  25% { opacity: 1; transform: translateY(-4px) scale(1.12); }
+  100% { opacity: 1; transform: translateY(0px) scale(1); }
+}
+
+.animate-coin-burst {
+  animation: coinBurstFloat 0.42s cubic-bezier(0.16, 1, 0.3, 1) both;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .animate-bg-drift,
+  .animate-malek-idle,
+  .animate-malek-blink,
+  .animate-coin-float,
+  .animate-sparkle,
+  .animate-sunray,
+  .animate-play-pulse,
+  .animate-float-slow {
+    animation: none !important;
+  }
+}

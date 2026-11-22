@@ -1,0 +1,2874 @@
+{
+  "version": "2.0.0",
+  "title": "German A2.1 – Grade 6 Challenge Bank",
+  "defaultIntervalMeters": 250,
+  "rewardRules": {
+    "correctCoins": 15,
+    "correctScoreBonus": 150,
+    "grantShieldOnCorrect": false,
+    "participationCoins": 0
+  },
+  "questions": [
+    {
+      "id": "q-001",
+      "category": "Activities & Sports",
+      "prompt": "Which German phrase means “to jog”?",
+      "options": ["Rad fahren", "Joggen", "Reiten"],
+      "correctIndex": 1,
+      "explanation": "Correct answer: B. Joggen"
+    },
+    {
+      "id": "q-002",
+      "category": "Activities & Sports",
+      "prompt": "Which German phrase means “to ski”?",
+      "options": ["Ski fahren", "Surfen", "Schwimmen"],
+      "correctIndex": 0,
+      "explanation": "Correct answer: A. Ski fahren"
+    },
+    {
+      "id": "q-003",
+      "category": "Activities & Sports",
+      "prompt": "Which phrase means “to play football”?",
+      "options": ["Tennis spielen", "Fußball spielen", "Volleyball spielen"],
+      "correctIndex": 1,
+      "explanation": "Correct answer: B. Fußball spielen"
+    },
+    {
+      "id": "q-004",
+      "category": "Activities & Sports",
+      "prompt": "Which phrase means “to inline skate”?",
+      "options": ["Inlineskaten", "Reiten", "Joggen"],
+      "correctIndex": 0,
+      "explanation": "Correct answer: A. Inlineskaten"
+    },
+    {
+      "id": "q-005",
+      "category": "Activities & Sports",
+      "prompt": "Which phrase means “to surf”?",
+      "options": ["Surfen", "Schwimmen", "Rad fahren"],
+      "correctIndex": 0,
+      "explanation": "Correct answer: A. Surfen"
+    },
+    {
+      "id": "q-006",
+      "category": "Activities & Sports",
+      "prompt": "Which phrase means “to ride a bicycle”?",
+      "options": ["Ski fahren", "Rad fahren", "Reiten"],
+      "correctIndex": 1,
+      "explanation": "Correct answer: B. Rad fahren"
+    },
+    {
+      "id": "q-007",
+      "category": "Activities & Sports",
+      "prompt": "Which phrase means “to ride a horse”?",
+      "options": ["Reiten", "Joggen", "Inlineskaten"],
+      "correctIndex": 0,
+      "explanation": "Correct answer: A. Reiten"
+    },
+    {
+      "id": "q-008",
+      "category": "Activities & Sports",
+      "prompt": "Which phrase means “to swim”?",
+      "options": ["Surfen", "Schwimmen", "Volleyball spielen"],
+      "correctIndex": 1,
+      "explanation": "Correct answer: B. Schwimmen"
+    },
+    {
+      "id": "q-009",
+      "category": "Activities & Sports",
+      "prompt": "What is “der Tennisschläger”?",
+      "options": ["A tennis racket", "A football", "A bicycle"],
+      "correctIndex": 0,
+      "explanation": "Correct answer: A. A tennis racket"
+    },
+    {
+      "id": "q-010",
+      "category": "Activities & Sports",
+      "prompt": "What is “das Surfbrett”?",
+      "options": ["A swimsuit", "A surfboard", "A ski"],
+      "correctIndex": 1,
+      "explanation": "Correct answer: B. A surfboard"
+    },
+    {
+      "id": "q-011",
+      "category": "Activities & Sports",
+      "prompt": "What is “das Fahrrad”?",
+      "options": ["A horse", "A bicycle", "A cap"],
+      "correctIndex": 1,
+      "explanation": "Correct answer: B. A bicycle"
+    },
+    {
+      "id": "q-012",
+      "category": "Activities & Sports",
+      "prompt": "What is “die Inlineskates”?",
+      "options": ["Inline skates", "Sports shoes", "Jeans"],
+      "correctIndex": 0,
+      "explanation": "Correct answer: A. Inline skates"
+    },
+    {
+      "id": "q-013",
+      "category": "Activities & Sports",
+      "prompt": "What is “das Pferd”?",
+      "options": ["A ball", "A horse", "A racket"],
+      "correctIndex": 1,
+      "explanation": "Correct answer: B. A horse"
+    },
+    {
+      "id": "q-014",
+      "category": "Activities & Sports",
+      "prompt": "What is “die Sportschuhe”?",
+      "options": ["Sports shoes", "A jacket", "A watch"],
+      "correctIndex": 0,
+      "explanation": "Correct answer: A. Sports shoes"
+    },
+    {
+      "id": "q-015",
+      "category": "Activities & Sports",
+      "prompt": "What is “der Jogginganzug”?",
+      "options": ["A jogging suit", "A swimsuit", "A skirt"],
+      "correctIndex": 0,
+      "explanation": "Correct answer: A. A jogging suit"
+    },
+    {
+      "id": "q-016",
+      "category": "Dialogue & Word Order",
+      "prompt": "Choose the correct question: “__________? – Mein Hobby ist Tennis spielen.”",
+      "options": ["Was ist dein Hobby?", "Wo wohnst du?", "Wie alt bist du?"],
+      "correctIndex": 0,
+      "explanation": "Correct answer: A. Was ist dein Hobby?"
+    },
+    {
+      "id": "q-017",
+      "category": "Dialogue & Word Order",
+      "prompt": "Choose the correct sentence from: ihre – Lina – Tasche – sucht.",
+      "options": ["Ihre Tasche sucht Lina.", "Lina sucht ihre Tasche.", "Sucht ihre Lina Tasche."],
+      "correctIndex": 1,
+      "explanation": "Correct answer: B. Lina sucht ihre Tasche."
+    },
+    {
+      "id": "q-018",
+      "category": "Dialogue & Word Order",
+      "prompt": "Choose the correct question from: du – reiten – kannst?",
+      "options": ["Du reiten kannst?", "Kannst du reiten?", "Kann reiten du?"],
+      "correctIndex": 1,
+      "explanation": "Correct answer: B. Kannst du reiten?"
+    },
+    {
+      "id": "q-019",
+      "category": "Dialogue & Word Order",
+      "prompt": "Choose the correct sentence: Mark – Rad fahren – nicht – kann.",
+      "options": ["Mark kann nicht Rad fahren.", "Mark nicht kann Rad fahren.", "Kann Mark Rad nicht fahren."],
+      "correctIndex": 0,
+      "explanation": "Correct answer: A. Mark kann nicht Rad fahren."
+    },
+    {
+      "id": "q-020",
+      "category": "Dialogue & Word Order",
+      "prompt": "Choose the correct sentence: Meine Schwester – Deutschkurs – besuchen – will.",
+      "options": ["Meine Schwester will einen Deutschkurs besuchen.", "Meine Schwester besuchen will Deutschkurs.", "Will meine Schwester besuchen Deutschkurs."],
+      "correctIndex": 0,
+      "explanation": "Correct answer: A. Meine Schwester will einen Deutschkurs besuchen."
+    },
+    {
+      "id": "q-021",
+      "category": "Dialogue & Word Order",
+      "prompt": "Choose the correct question: Brauchst – Pferd – du – ein?",
+      "options": ["Ein Pferd brauchst du?", "Brauchst du ein Pferd?", "Du brauchst ein Pferd?"],
+      "correctIndex": 1,
+      "explanation": "Correct answer: B. Brauchst du ein Pferd?"
+    },
+    {
+      "id": "q-022",
+      "category": "Dialogue & Word Order",
+      "prompt": "Choose the correct sentence: sind – seine – Das – Schuhe.",
+      "options": ["Seine Schuhe das sind.", "Das sind seine Schuhe.", "Das seine sind Schuhe."],
+      "correctIndex": 1,
+      "explanation": "Correct answer: B. Das sind seine Schuhe."
+    },
+    {
+      "id": "q-023",
+      "category": "Modal Verbs & Infinitives",
+      "prompt": "Er (__________) einen Skikurs besuchen.",
+      "options": ["will", "willst", "wollen"],
+      "correctIndex": 0,
+      "explanation": "Correct answer: A. will"
+    },
+    {
+      "id": "q-024",
+      "category": "Modal Verbs & Infinitives",
+      "prompt": "Ich muss früh (__________).",
+      "options": ["aufstehen", "auf steht", "aufstehe"],
+      "correctIndex": 0,
+      "explanation": "Correct answer: A. aufstehen"
+    },
+    {
+      "id": "q-025",
+      "category": "Modal Verbs & Infinitives",
+      "prompt": "Ich (__________) nach Deutschland fahren.",
+      "options": ["will", "willst", "wollen"],
+      "correctIndex": 0,
+      "explanation": "Correct answer: A. will"
+    },
+    {
+      "id": "q-026",
+      "category": "Modal Verbs & Infinitives",
+      "prompt": "Mark (__________) nicht Ski fahren.",
+      "options": ["könnt", "kann", "kannst"],
+      "correctIndex": 1,
+      "explanation": "Correct answer: B. kann"
+    },
+    {
+      "id": "q-027",
+      "category": "Modal Verbs & Infinitives",
+      "prompt": "Er will einen Skikurs (__________).",
+      "options": ["besucht", "besuch", "besuchen"],
+      "correctIndex": 2,
+      "explanation": "Correct answer: C. besuchen"
+    },
+    {
+      "id": "q-028",
+      "category": "Modal Verbs & Infinitives",
+      "prompt": "Wir (__________) einen Schwimmkurs besuchen.",
+      "options": ["muss", "müssen", "musst"],
+      "correctIndex": 1,
+      "explanation": "Correct answer: B. müssen"
+    },
+    {
+      "id": "q-029",
+      "category": "Modal Verbs & Infinitives",
+      "prompt": "Ahmed und Lina (__________) studieren.",
+      "options": ["müssen", "musst", "muss"],
+      "correctIndex": 0,
+      "explanation": "Correct answer: A. müssen"
+    },
+    {
+      "id": "q-030",
+      "category": "Modal Verbs & Infinitives",
+      "prompt": "Ich will Handball (__________).",
+      "options": ["spiele", "spielt", "spielen"],
+      "correctIndex": 2,
+      "explanation": "Correct answer: C. spielen"
+    },
+    {
+      "id": "q-031",
+      "category": "Modal Verbs & Infinitives",
+      "prompt": "Wir (__________) nicht tanzen.",
+      "options": ["können", "kannt", "kann"],
+      "correctIndex": 0,
+      "explanation": "Correct answer: A. können"
+    },
+    {
+      "id": "q-032",
+      "category": "Modal Verbs & Infinitives",
+      "prompt": "Sie will Deutsch (__________).",
+      "options": ["lernt", "lerne", "lernen"],
+      "correctIndex": 2,
+      "explanation": "Correct answer: C. lernen"
+    },
+    {
+      "id": "q-033",
+      "category": "Modal Verbs & Infinitives",
+      "prompt": "Tina (__________) joggen.",
+      "options": ["kannst", "kann", "können"],
+      "correctIndex": 1,
+      "explanation": "Correct answer: B. kann"
+    },
+    {
+      "id": "q-034",
+      "category": "Modal Verbs & Infinitives",
+      "prompt": "Ich brauche (__________) Tennisschläger.",
+      "options": ["einen", "eine", "ein"],
+      "correctIndex": 0,
+      "explanation": "Correct answer: A. einen"
+    },
+    {
+      "id": "q-035",
+      "category": "Modal Verbs & Infinitives",
+      "prompt": "Lisa braucht (__________) Fahrrad.",
+      "options": ["einen", "ein", "eine"],
+      "correctIndex": 1,
+      "explanation": "Correct answer: B. ein"
+    },
+    {
+      "id": "q-036",
+      "category": "Modal Verbs & Infinitives",
+      "prompt": "Wir brauchen (__________) Schwimmanzüge.",
+      "options": ["einen", "eine", "— (no article)"],
+      "correctIndex": 2,
+      "explanation": "Correct answer: C. — (no article)"
+    },
+    {
+      "id": "q-037",
+      "category": "Modal Verbs & Infinitives",
+      "prompt": "Du brauchst (__________) Pferd.",
+      "options": ["ein", "einen", "eine"],
+      "correctIndex": 0,
+      "explanation": "Correct answer: A. ein"
+    },
+    {
+      "id": "q-038",
+      "category": "Modal Verbs & Infinitives",
+      "prompt": "Er braucht (__________) Ball.",
+      "options": ["ein", "einen", "eine"],
+      "correctIndex": 1,
+      "explanation": "Correct answer: B. einen"
+    },
+    {
+      "id": "q-039",
+      "category": "Modal Verbs & Infinitives",
+      "prompt": "Ich brauche (__________) Sportschuhe.",
+      "options": ["einen", "eine", "— (no article)"],
+      "correctIndex": 2,
+      "explanation": "Correct answer: C. — (no article)"
+    },
+    {
+      "id": "q-040",
+      "category": "Modal Verbs & Infinitives",
+      "prompt": "Mark braucht (__________) Skier.",
+      "options": ["ein", "einen", "— (no article)"],
+      "correctIndex": 2,
+      "explanation": "Correct answer: C. — (no article)"
+    },
+    {
+      "id": "q-041",
+      "category": "Modal Verbs & Infinitives",
+      "prompt": "Ich finde (__________) Surfbrett.",
+      "options": ["ein", "einen", "eine"],
+      "correctIndex": 0,
+      "explanation": "Correct answer: A. ein"
+    },
+    {
+      "id": "q-042",
+      "category": "Modal Verbs & Infinitives",
+      "prompt": "Mein Vater braucht (__________) Badeanzug.",
+      "options": ["eine", "einen", "ein"],
+      "correctIndex": 1,
+      "explanation": "Correct answer: B. einen"
+    },
+    {
+      "id": "q-043",
+      "category": "Equipment & Vocabulary",
+      "prompt": "Ich will joggen lernen. Ich brauche (__________) Jogginganzug.",
+      "options": ["das", "den", "die"],
+      "correctIndex": 1,
+      "explanation": "Correct answer: B. den"
+    },
+    {
+      "id": "q-044",
+      "category": "Equipment & Vocabulary",
+      "prompt": "Ich will reiten. Ich brauche (__________) Pferd.",
+      "options": ["ein", "eine", "einen"],
+      "correctIndex": 0,
+      "explanation": "Correct answer: A. ein"
+    },
+    {
+      "id": "q-045",
+      "category": "Equipment & Vocabulary",
+      "prompt": "Ich will (__________) fahren. Ich brauche Skier.",
+      "options": ["Ski", "Rad", "reiten"],
+      "correctIndex": 0,
+      "explanation": "Correct answer: A. Ski"
+    },
+    {
+      "id": "q-046",
+      "category": "Equipment & Vocabulary",
+      "prompt": "Ich will (__________) spielen. Ich brauche einen Tennisschläger.",
+      "options": ["Tennis", "Fußball", "Gitarre"],
+      "correctIndex": 0,
+      "explanation": "Correct answer: A. Tennis"
+    },
+    {
+      "id": "q-047",
+      "category": "Equipment & Vocabulary",
+      "prompt": "Ich will inlineskaten. Ich brauche (__________) Inlineskates.",
+      "options": ["das", "die", "den"],
+      "correctIndex": 1,
+      "explanation": "Correct answer: B. die"
+    },
+    {
+      "id": "q-048",
+      "category": "Equipment & Vocabulary",
+      "prompt": "Ich brauche ein Surfbrett. Ich will (__________).",
+      "options": ["surfen", "joggen", "reiten"],
+      "correctIndex": 0,
+      "explanation": "Correct answer: A. surfen"
+    },
+    {
+      "id": "q-049",
+      "category": "Equipment & Vocabulary",
+      "prompt": "Which word is “das Fahrrad”?",
+      "options": ["Fahrrad", "Pferd", "Skier"],
+      "correctIndex": 0,
+      "explanation": "Correct answer: A. Fahrrad"
+    },
+    {
+      "id": "q-050",
+      "category": "Equipment & Vocabulary",
+      "prompt": "Which word is “das Pferd”?",
+      "options": ["Pferd", "Surfbrett", "Tennisschläger"],
+      "correctIndex": 0,
+      "explanation": "Correct answer: A. Pferd"
+    },
+    {
+      "id": "q-051",
+      "category": "Equipment & Vocabulary",
+      "prompt": "Which word is “der Tennisschläger”?",
+      "options": ["Tennisschläger", "Jogginganzug", "Badeanzug"],
+      "correctIndex": 0,
+      "explanation": "Correct answer: A. Tennisschläger"
+    },
+    {
+      "id": "q-052",
+      "category": "Equipment & Vocabulary",
+      "prompt": "Which word is “die Skier”?",
+      "options": ["Skier", "Sportschuhe", "Inlineskates"],
+      "correctIndex": 0,
+      "explanation": "Correct answer: A. Skier"
+    },
+    {
+      "id": "q-053",
+      "category": "Favourite Hobby",
+      "prompt": "Which answer correctly tells when you do a hobby?",
+      "options": ["Am Wochenende.", "Mit meinem Bruder.", "Einen Ball."],
+      "correctIndex": 0,
+      "explanation": "Correct answer: A. Am Wochenende."
+    },
+    {
+      "id": "q-054",
+      "category": "Favourite Hobby",
+      "prompt": "Which answer correctly tells where you do a hobby?",
+      "options": ["Im Sportklub.", "Am Samstag.", "Allein."],
+      "correctIndex": 0,
+      "explanation": "Correct answer: A. Im Sportklub."
+    },
+    {
+      "id": "q-055",
+      "category": "Favourite Hobby",
+      "prompt": "Which answer correctly tells who you play with?",
+      "options": ["Mit meinen Freunden.", "Im Park.", "Einen Schläger."],
+      "correctIndex": 0,
+      "explanation": "Correct answer: A. Mit meinen Freunden."
+    },
+    {
+      "id": "q-056",
+      "category": "Favourite Hobby",
+      "prompt": "Which item can you need to play tennis?",
+      "options": ["Einen Tennisschläger.", "Ein Surfbrett.", "Ein Pferd."],
+      "correctIndex": 0,
+      "explanation": "Correct answer: A. Einen Tennisschläger."
+    },
+    {
+      "id": "q-057",
+      "category": "Favourite Hobby",
+      "prompt": "Which sentence means “I can play football”?",
+      "options": ["Ich kann Fußball spielen.", "Ich will Fußball spielt.", "Ich Fußball kann spielen."],
+      "correctIndex": 0,
+      "explanation": "Correct answer: A. Ich kann Fußball spielen."
+    },
+    {
+      "id": "q-058",
+      "category": "Favourite Hobby",
+      "prompt": "Which sentence means “I want to learn swimming”?",
+      "options": ["Ich will Schwimmen lernen.", "Ich schwimme will lernen.", "Ich will lernen schwimmt."],
+      "correctIndex": 0,
+      "explanation": "Correct answer: A. Ich will Schwimmen lernen."
+    },
+    {
+      "id": "q-059",
+      "category": "Possessive Articles",
+      "prompt": "Hast du __________ Telefonnummer?",
+      "options": ["deine", "dein", "deinen"],
+      "correctIndex": 0,
+      "explanation": "Correct answer: A. deine"
+    },
+    {
+      "id": "q-060",
+      "category": "Possessive Articles",
+      "prompt": "Laura liest __________ Buch.",
+      "options": ["ihr", "ihre", "ihren"],
+      "correctIndex": 0,
+      "explanation": "Correct answer: A. ihr"
+    },
+    {
+      "id": "q-061",
+      "category": "Possessive Articles",
+      "prompt": "Kinder, wo ist __________ Fernseher?",
+      "options": ["euer", "eure", "euren"],
+      "correctIndex": 0,
+      "explanation": "Correct answer: A. euer"
+    },
+    {
+      "id": "q-062",
+      "category": "Possessive Articles",
+      "prompt": "Das sind __________ Großeltern.",
+      "options": ["unsere", "unser", "unseren"],
+      "correctIndex": 0,
+      "explanation": "Correct answer: A. unsere"
+    },
+    {
+      "id": "q-063",
+      "category": "Possessive Articles",
+      "prompt": "__________ Freunde heißen Karl und Josef.",
+      "options": ["Meine", "Mein", "Meinen"],
+      "correctIndex": 0,
+      "explanation": "Correct answer: A. Meine"
+    },
+    {
+      "id": "q-064",
+      "category": "Possessive Articles",
+      "prompt": "Ich sehe __________ Buch.",
+      "options": ["dein", "deine", "deinen"],
+      "correctIndex": 0,
+      "explanation": "Correct answer: A. dein"
+    },
+    {
+      "id": "q-065",
+      "category": "Possessive Articles",
+      "prompt": "Maria besucht morgen __________ Tante.",
+      "options": ["ihre", "ihr", "ihren"],
+      "correctIndex": 0,
+      "explanation": "Correct answer: A. ihre"
+    },
+    {
+      "id": "q-066",
+      "category": "Possessive Articles",
+      "prompt": "Mark liebt __________ Opa.",
+      "options": ["seinen", "seine", "sein"],
+      "correctIndex": 0,
+      "explanation": "Correct answer: A. seinen"
+    },
+    {
+      "id": "q-067",
+      "category": "Possessive Articles",
+      "prompt": "Sehen Sie __________ Vater?",
+      "options": ["Ihren", "Ihre", "Ihr"],
+      "correctIndex": 0,
+      "explanation": "Correct answer: A. Ihren"
+    },
+    {
+      "id": "q-068",
+      "category": "Possessive Articles",
+      "prompt": "Herr Obermann, __________ Studenten lernen alles!",
+      "options": ["Ihre", "Ihr", "Ihren"],
+      "correctIndex": 0,
+      "explanation": "Correct answer: A. Ihre"
+    },
+    {
+      "id": "q-069",
+      "category": "Possessive Articles",
+      "prompt": "Trinkst du jetzt __________ Wasser?",
+      "options": ["dein", "deine", "deinen"],
+      "correctIndex": 0,
+      "explanation": "Correct answer: A. dein"
+    },
+    {
+      "id": "q-070",
+      "category": "Possessive Articles",
+      "prompt": "Ich esse __________ Bananen.",
+      "options": ["meine", "mein", "meinen"],
+      "correctIndex": 0,
+      "explanation": "Correct answer: A. meine"
+    },
+    {
+      "id": "q-071",
+      "category": "Possessive Articles",
+      "prompt": "Das ist __________ Uhr.",
+      "options": ["deine", "dein", "deinen"],
+      "correctIndex": 0,
+      "explanation": "Correct answer: A. deine"
+    },
+    {
+      "id": "q-072",
+      "category": "Possessive Articles",
+      "prompt": "Ich sehe __________ Schwester nicht.",
+      "options": ["meine", "mein", "meinen"],
+      "correctIndex": 0,
+      "explanation": "Correct answer: A. meine"
+    },
+    {
+      "id": "q-073",
+      "category": "Possessive Articles",
+      "prompt": "Florian hört __________ Professor nicht.",
+      "options": ["seinen", "seine", "sein"],
+      "correctIndex": 0,
+      "explanation": "Correct answer: A. seinen"
+    },
+    {
+      "id": "q-074",
+      "category": "Possessive Articles",
+      "prompt": "Omar und (__________) Bruder spielen Tennis.",
+      "options": ["sein", "seine", "ihr"],
+      "correctIndex": 0,
+      "explanation": "Correct answer: A. sein"
+    },
+    {
+      "id": "q-075",
+      "category": "Possessive Articles",
+      "prompt": "Ist das T-Shirt neu? – Ja, (__________) ist neu.",
+      "options": ["es", "er", "sie"],
+      "correctIndex": 0,
+      "explanation": "Correct answer: A. es"
+    },
+    {
+      "id": "q-076",
+      "category": "Possessive Articles",
+      "prompt": "Herr Gamal, ist das (__________) Handy?",
+      "options": ["Ihr", "Ihre", "ihr"],
+      "correctIndex": 0,
+      "explanation": "Correct answer: A. Ihr"
+    },
+    {
+      "id": "q-077",
+      "category": "Possessive Articles",
+      "prompt": "Hast du eine Uhr? – Ja, das ist (__________) Uhr.",
+      "options": ["meine", "deine", "seine"],
+      "correctIndex": 0,
+      "explanation": "Correct answer: A. meine"
+    },
+    {
+      "id": "q-078",
+      "category": "Possessive Articles",
+      "prompt": "Die Schüler bringen (__________) Sportschuhe mit.",
+      "options": ["ihre", "seine", "deine"],
+      "correctIndex": 0,
+      "explanation": "Correct answer: A. ihre"
+    },
+    {
+      "id": "q-079",
+      "category": "Possessive Articles",
+      "prompt": "Wo wohnt Mona? – (__________) wohnt in Helwan.",
+      "options": ["Sie", "Er", "Es"],
+      "correctIndex": 0,
+      "explanation": "Correct answer: A. Sie"
+    },
+    {
+      "id": "q-080",
+      "category": "Possessive Articles",
+      "prompt": "Hany und Wael sind Schüler. (__________) sind Freunde.",
+      "options": ["Sie", "Ihr", "Ich"],
+      "correctIndex": 0,
+      "explanation": "Correct answer: A. Sie"
+    },
+    {
+      "id": "q-081",
+      "category": "Possessive Articles",
+      "prompt": "Wie ist (__________) Pulli, Herr Nabil?",
+      "options": ["Ihr", "Ihre", "ihr"],
+      "correctIndex": 0,
+      "explanation": "Correct answer: A. Ihr"
+    },
+    {
+      "id": "q-082",
+      "category": "Possessive Articles",
+      "prompt": "Mein Onkel fährt (__________) Fahrrad.",
+      "options": ["sein", "seine", "ihr"],
+      "correctIndex": 0,
+      "explanation": "Correct answer: A. sein"
+    },
+    {
+      "id": "q-083",
+      "category": "Possessive Articles",
+      "prompt": "Ist Mohammed der Freund (__________) Omar?",
+      "options": ["von", "für", "bei"],
+      "correctIndex": 0,
+      "explanation": "Correct answer: A. von"
+    },
+    {
+      "id": "q-084",
+      "category": "Possessive Articles",
+      "prompt": "Besuchst du (__________) Tante?",
+      "options": ["deine", "dein", "ihr"],
+      "correctIndex": 0,
+      "explanation": "Correct answer: A. deine"
+    },
+    {
+      "id": "q-085",
+      "category": "Possessive Articles",
+      "prompt": "Woher kommt Ahmed? – (__________) kommt aus Alex.",
+      "options": ["Er", "Es", "Sie"],
+      "correctIndex": 0,
+      "explanation": "Correct answer: A. Er"
+    },
+    {
+      "id": "q-086",
+      "category": "Possessive Articles",
+      "prompt": "Wo ist (__________) Pullover, Faten?",
+      "options": ["dein", "deine", "ihr"],
+      "correctIndex": 0,
+      "explanation": "Correct answer: A. dein"
+    },
+    {
+      "id": "q-087",
+      "category": "Possessive Articles",
+      "prompt": "Woher kommen Sie? – (__________) kommen aus Alex.",
+      "options": ["Wir", "Er", "Ihr"],
+      "correctIndex": 0,
+      "explanation": "Correct answer: A. Wir"
+    },
+    {
+      "id": "q-088",
+      "category": "Possessive Articles",
+      "prompt": "(__________) Schirmmütze ist neu.",
+      "options": ["Meine", "Mein", "Dein"],
+      "correctIndex": 0,
+      "explanation": "Correct answer: A. Meine"
+    },
+    {
+      "id": "q-089",
+      "category": "Possessive Articles",
+      "prompt": "Herr Mahmoud, wo wohnen (__________)?",
+      "options": ["Sie", "sie", "du"],
+      "correctIndex": 0,
+      "explanation": "Correct answer: A. Sie"
+    },
+    {
+      "id": "q-090",
+      "category": "Possessive Articles",
+      "prompt": "Ist das Monas Kapuzenjacke? – Ja, das ist (__________) Kapuzenjacke.",
+      "options": ["ihre", "ihr", "Ihr"],
+      "correctIndex": 0,
+      "explanation": "Correct answer: A. ihre"
+    },
+    {
+      "id": "q-091",
+      "category": "Possessive Articles",
+      "prompt": "Wo ist das Handy (__________) Basma?",
+      "options": ["von", "in", "nach"],
+      "correctIndex": 0,
+      "explanation": "Correct answer: A. von"
+    },
+    {
+      "id": "q-092",
+      "category": "Possessive Articles",
+      "prompt": "Heißt du Ramy? – Nein, (__________) heiße Ahmed.",
+      "options": ["ich", "er", "es"],
+      "correctIndex": 0,
+      "explanation": "Correct answer: A. ich"
+    },
+    {
+      "id": "q-093",
+      "category": "Possessive Articles",
+      "prompt": "Wo ist (__________) Anorak, Frau Laila?",
+      "options": ["Ihr", "dein", "sein"],
+      "correctIndex": 0,
+      "explanation": "Correct answer: A. Ihr"
+    },
+    {
+      "id": "q-094",
+      "category": "Possessive Articles",
+      "prompt": "(__________) Rock ist blau.",
+      "options": ["Unser", "Unsere", "Eure"],
+      "correctIndex": 0,
+      "explanation": "Correct answer: A. Unser"
+    },
+    {
+      "id": "q-095",
+      "category": "Modul 4 – Test: Sport",
+      "context": "Reading text basis: The passage says that people in Germany are interested in sport; football and tennis are mentioned, football is played by two teams with a goalkeeper and a referee, tennis uses a racket and net, and some Germans ski in winter.",
+      "prompt": "Which sports are mentioned as popular with spectators?",
+      "options": ["Football and tennis", "Swimming and cycling", "Horse riding and jogging"],
+      "correctIndex": 0,
+      "explanation": "Correct answer: A. Football and tennis"
+    },
+    {
+      "id": "q-096",
+      "category": "Modul 4 – Test: Sport",
+      "context": "Reading text basis: The passage says that people in Germany are interested in sport; football and tennis are mentioned, football is played by two teams with a goalkeeper and a referee, tennis uses a racket and net, and some Germans ski in winter.",
+      "prompt": "According to the passage, what is the aim in football?",
+      "options": ["To hit a ball over a net", "To kick a ball into the goal", "To collect tennis points"],
+      "correctIndex": 1,
+      "explanation": "Correct answer: B. To kick a ball into the goal"
+    },
+    {
+      "id": "q-097",
+      "category": "Modul 4 – Test: Sport",
+      "context": "Reading text basis: The passage says that people in Germany are interested in sport; football and tennis are mentioned, football is played by two teams with a goalkeeper and a referee, tennis uses a racket and net, and some Germans ski in winter.",
+      "prompt": "How many players are in one football team according to the passage?",
+      "options": ["10 players and a goalkeeper", "20 players and no goalkeeper", "Two players"],
+      "correctIndex": 0,
+      "explanation": "Correct answer: A. 10 players and a goalkeeper"
+    },
+    {
+      "id": "q-098",
+      "category": "Modul 4 – Test: Sport",
+      "context": "Reading text basis: The passage says that people in Germany are interested in sport; football and tennis are mentioned, football is played by two teams with a goalkeeper and a referee, tennis uses a racket and net, and some Germans ski in winter.",
+      "prompt": "Who makes sure players follow the rules?",
+      "options": ["The spectators", "The referees", "The tennis players"],
+      "correctIndex": 1,
+      "explanation": "Correct answer: B. The referees"
+    },
+    {
+      "id": "q-099",
+      "category": "Modul 4 – Test: Sport",
+      "context": "Reading text basis: The passage says that people in Germany are interested in sport; football and tennis are mentioned, football is played by two teams with a goalkeeper and a referee, tennis uses a racket and net, and some Germans ski in winter.",
+      "prompt": "What equipment is used in tennis?",
+      "options": ["A racket and a net", "A horse and a saddle", "Skis and poles"],
+      "correctIndex": 0,
+      "explanation": "Correct answer: A. A racket and a net"
+    },
+    {
+      "id": "q-100",
+      "category": "Modul 4 – Test: Sport",
+      "context": "Reading text basis: The passage says that people in Germany are interested in sport; football and tennis are mentioned, football is played by two teams with a goalkeeper and a referee, tennis uses a racket and net, and some Germans ski in winter.",
+      "prompt": "When do many Germans go skiing?",
+      "options": ["In summer", "In winter", "In spring only"],
+      "correctIndex": 1,
+      "explanation": "Correct answer: B. In winter"
+    },
+    {
+      "id": "q-101",
+      "category": "Modul 4 – Test: Sport",
+      "context": "Reading text basis: The passage says that people in Germany are interested in sport; football and tennis are mentioned, football is played by two teams with a goalkeeper and a referee, tennis uses a racket and net, and some Germans ski in winter.",
+      "prompt": "Die Deutschen interessieren sich nicht für Sport. – Richtig oder falsch?",
+      "options": ["Richtig", "Falsch", "Nicht im Text"],
+      "correctIndex": 1,
+      "explanation": "Correct answer: B. Falsch"
+    },
+    {
+      "id": "q-102",
+      "category": "Modul 4 – Test: Sport",
+      "context": "Reading text basis: The passage says that people in Germany are interested in sport; football and tennis are mentioned, football is played by two teams with a goalkeeper and a referee, tennis uses a racket and net, and some Germans ski in winter.",
+      "prompt": "Der Torwart schützt das Tor. – Richtig oder falsch?",
+      "options": ["Richtig", "Falsch", "Nicht im Text"],
+      "correctIndex": 0,
+      "explanation": "Correct answer: A. Richtig"
+    },
+    {
+      "id": "q-103",
+      "category": "Modul 4 – Test: Sport",
+      "prompt": "Choose the correct word order: der Anorak – Stefan – gehört?",
+      "options": ["Gehört der Anorak Stefan?", "Der Anorak gehört Stefan?", "Stefan der gehört Anorak?"],
+      "correctIndex": 0,
+      "explanation": "Correct answer: A. Gehört der Anorak Stefan?"
+    },
+    {
+      "id": "q-104",
+      "category": "Modul 4 – Test: Sport",
+      "prompt": "Choose the correct sentence: ist – mein – Das – Handy.",
+      "options": ["Das ist mein Handy.", "Mein das Handy ist.", "Ist mein Handy das."],
+      "correctIndex": 0,
+      "explanation": "Correct answer: A. Das ist mein Handy."
+    },
+    {
+      "id": "q-105",
+      "category": "Modul 4 – Test: Sport",
+      "prompt": "Choose the correct sentence: Lisa – ihren – sucht – Roller.",
+      "options": ["Lisa sucht ihren Roller.", "Ihren Roller Lisa sucht.", "Sucht Lisa ihren Roller."],
+      "correctIndex": 0,
+      "explanation": "Correct answer: A. Lisa sucht ihren Roller."
+    },
+    {
+      "id": "q-106",
+      "category": "Modul 4 – Test: Sport",
+      "prompt": "Choose the correct sentence: Mark – sucht – seine – Tennisschuhe.",
+      "options": ["Mark sucht seine Tennisschuhe.", "Mark seine sucht Tennisschuhe.", "Seine Mark Tennisschuhe sucht."],
+      "correctIndex": 0,
+      "explanation": "Correct answer: A. Mark sucht seine Tennisschuhe."
+    },
+    {
+      "id": "q-107",
+      "category": "Modul 4 – Test: Sport",
+      "prompt": "(__________) Mp3-Player ist neu.",
+      "options": ["Mein", "Deine", "Meine"],
+      "correctIndex": 0,
+      "explanation": "Correct answer: A. Mein"
+    },
+    {
+      "id": "q-108",
+      "category": "Modul 4 – Test: Sport",
+      "prompt": "Das sind (__________) Socken.",
+      "options": ["unsere", "deinen", "euer"],
+      "correctIndex": 0,
+      "explanation": "Correct answer: A. unsere"
+    },
+    {
+      "id": "q-109",
+      "category": "Modul 4 – Test: Sport",
+      "prompt": "Ist deine Hose dort? – Ja, (__________) ist dort.",
+      "options": ["sie", "es", "er"],
+      "correctIndex": 0,
+      "explanation": "Correct answer: A. sie"
+    },
+    {
+      "id": "q-110",
+      "category": "Modul 4 – Test: Sport",
+      "prompt": "(__________) Eltern sind zu Hause.",
+      "options": ["Unsere", "Unser", "Dein"],
+      "correctIndex": 0,
+      "explanation": "Correct answer: A. Unsere"
+    },
+    {
+      "id": "q-111",
+      "category": "Modul 4 – Test: Sport",
+      "prompt": "Ich heiße Nada. (__________) Fahrrad ist rot.",
+      "options": ["Mein", "Ihr", "Sein"],
+      "correctIndex": 0,
+      "explanation": "Correct answer: A. Mein"
+    },
+    {
+      "id": "q-112",
+      "category": "Modul 4 – Test: Sport",
+      "prompt": "Sind das (__________) Jeans?",
+      "options": ["meine", "mein", "ihr"],
+      "correctIndex": 0,
+      "explanation": "Correct answer: A. meine"
+    },
+    {
+      "id": "q-113",
+      "category": "Modul 4 – Test: Sport",
+      "prompt": "Das ist (__________) Surfbrett.",
+      "options": ["unser", "unsere", "eure"],
+      "correctIndex": 0,
+      "explanation": "Correct answer: A. unser"
+    },
+    {
+      "id": "q-114",
+      "category": "Modul 4 – Test: Sport",
+      "prompt": "Ich (__________) Tennis spielen.",
+      "options": ["kann", "kannst", "können"],
+      "correctIndex": 0,
+      "explanation": "Correct answer: A. kann"
+    },
+    {
+      "id": "q-115",
+      "category": "Modul 4 – Test: Sport",
+      "prompt": "Meine Mutter kann sehr gut (__________).",
+      "options": ["kochen", "kocht", "koche"],
+      "correctIndex": 0,
+      "explanation": "Correct answer: A. kochen"
+    },
+    {
+      "id": "q-116",
+      "category": "Modul 4 – Test: Sport",
+      "prompt": "Mein Bruder will Deutsch (__________).",
+      "options": ["lernen", "lernt", "lerne"],
+      "correctIndex": 0,
+      "explanation": "Correct answer: A. lernen"
+    },
+    {
+      "id": "q-117",
+      "category": "Time & Travel Prepositions",
+      "prompt": "(__________) Morgen gehe ich in die Schule.",
+      "options": ["Am", "Im", "Um"],
+      "correctIndex": 0,
+      "explanation": "Correct answer: A. Am"
+    },
+    {
+      "id": "q-118",
+      "category": "Time & Travel Prepositions",
+      "prompt": "Wir haben (__________) Freitag frei.",
+      "options": ["am", "im", "um"],
+      "correctIndex": 0,
+      "explanation": "Correct answer: A. am"
+    },
+    {
+      "id": "q-119",
+      "category": "Time & Travel Prepositions",
+      "prompt": "Soha fährt (__________) Winter nach Assuan.",
+      "options": ["im", "am", "um"],
+      "correctIndex": 0,
+      "explanation": "Correct answer: A. im"
+    },
+    {
+      "id": "q-120",
+      "category": "Time & Travel Prepositions",
+      "prompt": "(__________) acht Uhr beginnt der Film.",
+      "options": ["Um", "Am", "Im"],
+      "correctIndex": 0,
+      "explanation": "Correct answer: A. Um"
+    },
+    {
+      "id": "q-121",
+      "category": "Time & Travel Prepositions",
+      "prompt": "Sara hat Geburtstag (__________) Februar.",
+      "options": ["im", "am", "um"],
+      "correctIndex": 0,
+      "explanation": "Correct answer: A. im"
+    },
+    {
+      "id": "q-122",
+      "category": "Time & Travel Prepositions",
+      "prompt": "Hanys Geburtstag ist (__________) 22.5.",
+      "options": ["am", "im", "um"],
+      "correctIndex": 0,
+      "explanation": "Correct answer: A. am"
+    },
+    {
+      "id": "q-123",
+      "category": "Time & Travel Prepositions",
+      "prompt": "Ich habe (__________) Montag einen Test.",
+      "options": ["am", "im", "um"],
+      "correctIndex": 0,
+      "explanation": "Correct answer: A. am"
+    },
+    {
+      "id": "q-124",
+      "category": "Time & Travel Prepositions",
+      "prompt": "Was machst du (__________) Vormittag?",
+      "options": ["am", "im", "um"],
+      "correctIndex": 0,
+      "explanation": "Correct answer: A. am"
+    },
+    {
+      "id": "q-125",
+      "category": "Time & Travel Prepositions",
+      "prompt": "Der Muttertag ist (__________) Frühling.",
+      "options": ["im", "am", "um"],
+      "correctIndex": 0,
+      "explanation": "Correct answer: A. im"
+    },
+    {
+      "id": "q-126",
+      "category": "Time & Travel Prepositions",
+      "prompt": "Die Schule ist (__________) halb drei aus.",
+      "options": ["um", "am", "im"],
+      "correctIndex": 0,
+      "explanation": "Correct answer: A. um"
+    },
+    {
+      "id": "q-127",
+      "category": "Time & Travel Prepositions",
+      "prompt": "Ich fahre (__________) Deutschland.",
+      "options": ["nach", "in die", "ans"],
+      "correctIndex": 0,
+      "explanation": "Correct answer: A. nach"
+    },
+    {
+      "id": "q-128",
+      "category": "Time & Travel Prepositions",
+      "prompt": "(__________) Sommer fahre ich (__________) USA.",
+      "options": ["Im / in die", "Am / nach", "Um / ans"],
+      "correctIndex": 0,
+      "explanation": "Correct answer: A. Im / in die"
+    },
+    {
+      "id": "q-129",
+      "category": "Time & Travel Prepositions",
+      "prompt": "Ich fahre (__________) Schweiz.",
+      "options": ["in die", "nach", "ans"],
+      "correctIndex": 0,
+      "explanation": "Correct answer: A. in die"
+    },
+    {
+      "id": "q-130",
+      "category": "Time & Travel Prepositions",
+      "prompt": "Tina fährt (__________) Gebirge.",
+      "options": ["ins", "ans", "nach"],
+      "correctIndex": 0,
+      "explanation": "Correct answer: A. ins"
+    },
+    {
+      "id": "q-131",
+      "category": "Time & Travel Prepositions",
+      "prompt": "Wir fahren (__________) Meer.",
+      "options": ["ans", "ins", "nach"],
+      "correctIndex": 0,
+      "explanation": "Correct answer: A. ans"
+    },
+    {
+      "id": "q-132",
+      "category": "Time & Travel Prepositions",
+      "prompt": "Januar ist (__________) Winter.",
+      "options": ["im", "am", "um"],
+      "correctIndex": 0,
+      "explanation": "Correct answer: A. im"
+    },
+    {
+      "id": "q-133",
+      "category": "Time & Travel Prepositions",
+      "prompt": "Wir fahren (__________) Bodensee.",
+      "options": ["an den", "ins", "nach"],
+      "correctIndex": 0,
+      "explanation": "Correct answer: A. an den"
+    },
+    {
+      "id": "q-134",
+      "category": "Weather Vocabulary",
+      "prompt": "“Es ist sonnig” means:",
+      "options": ["It is sunny.", "It is foggy.", "It is snowing."],
+      "correctIndex": 0,
+      "explanation": "Correct answer: A. It is sunny."
+    },
+    {
+      "id": "q-135",
+      "category": "Weather Vocabulary",
+      "prompt": "“Es regnet” means:",
+      "options": ["It is raining.", "It is windy.", "It is hot."],
+      "correctIndex": 0,
+      "explanation": "Correct answer: A. It is raining."
+    },
+    {
+      "id": "q-136",
+      "category": "Weather Vocabulary",
+      "prompt": "“Es ist bewölkt” means:",
+      "options": ["It is cloudy.", "It is cold.", "It is stormy."],
+      "correctIndex": 0,
+      "explanation": "Correct answer: A. It is cloudy."
+    },
+    {
+      "id": "q-137",
+      "category": "Weather Vocabulary",
+      "prompt": "“Es schneit” means:",
+      "options": ["It is snowing.", "It is raining.", "It is sunny."],
+      "correctIndex": 0,
+      "explanation": "Correct answer: A. It is snowing."
+    },
+    {
+      "id": "q-138",
+      "category": "Weather Vocabulary",
+      "prompt": "“Es ist neblig” means:",
+      "options": ["It is foggy.", "It is hot.", "It is windy."],
+      "correctIndex": 0,
+      "explanation": "Correct answer: A. It is foggy."
+    },
+    {
+      "id": "q-139",
+      "category": "Weather Vocabulary",
+      "prompt": "“Es ist windig” means:",
+      "options": ["It is windy.", "It is cloudy.", "It is snowing."],
+      "correctIndex": 0,
+      "explanation": "Correct answer: A. It is windy."
+    },
+    {
+      "id": "q-140",
+      "category": "Weather Vocabulary",
+      "prompt": "“Es blitzt und donnert” means:",
+      "options": ["There is lightning and thunder.", "It is sunny.", "It is foggy."],
+      "correctIndex": 0,
+      "explanation": "Correct answer: A. There is lightning and thunder."
+    },
+    {
+      "id": "q-141",
+      "category": "Weather Vocabulary",
+      "prompt": "“Es ist heiß” means:",
+      "options": ["It is hot.", "It is cold.", "It is raining."],
+      "correctIndex": 0,
+      "explanation": "Correct answer: A. It is hot."
+    },
+    {
+      "id": "q-142",
+      "category": "Weather Vocabulary",
+      "prompt": "“Es ist kalt” means:",
+      "options": ["It is cold.", "It is hot.", "It is sunny."],
+      "correctIndex": 0,
+      "explanation": "Correct answer: A. It is cold."
+    },
+    {
+      "id": "q-143",
+      "category": "Weather Vocabulary",
+      "prompt": "What is the weather in Schwerin according to the example?",
+      "options": ["A thunderstorm; it thunders and lightens; 4°C", "Sunny; 20°C", "Snowy; -10°C"],
+      "correctIndex": 0,
+      "explanation": "Correct answer: A. A thunderstorm; it thunders and lightens; 4°C"
+    },
+    {
+      "id": "q-144",
+      "category": "Weather Vocabulary",
+      "prompt": "Which city is used in the example on the weather map?",
+      "options": ["Schwerin", "Berlin", "München"],
+      "correctIndex": 0,
+      "explanation": "Correct answer: A. Schwerin"
+    },
+    {
+      "id": "q-145",
+      "category": "Weather Vocabulary",
+      "prompt": "Which question asks about the weather?",
+      "options": ["Wie ist das Wetter?", "Wie alt bist du?", "Woher kommst du?"],
+      "correctIndex": 0,
+      "explanation": "Correct answer: A. Wie ist das Wetter?"
+    },
+    {
+      "id": "q-146",
+      "category": "W-Questions & Holiday",
+      "prompt": "Which question word asks about a person?",
+      "options": ["Wer", "Wo", "Wann"],
+      "correctIndex": 0,
+      "explanation": "Correct answer: A. Wer"
+    },
+    {
+      "id": "q-147",
+      "category": "W-Questions & Holiday",
+      "prompt": "Which question word asks about a thing?",
+      "options": ["Was", "Wer", "Woher"],
+      "correctIndex": 0,
+      "explanation": "Correct answer: A. Was"
+    },
+    {
+      "id": "q-148",
+      "category": "W-Questions & Holiday",
+      "prompt": "Which question word asks “How?”",
+      "options": ["Wie", "Warum", "Wohin"],
+      "correctIndex": 0,
+      "explanation": "Correct answer: A. Wie"
+    },
+    {
+      "id": "q-149",
+      "category": "W-Questions & Holiday",
+      "prompt": "Which question means “How old?”",
+      "options": ["Wie alt", "Wie viele", "Woher"],
+      "correctIndex": 0,
+      "explanation": "Correct answer: A. Wie alt"
+    },
+    {
+      "id": "q-150",
+      "category": "W-Questions & Holiday",
+      "prompt": "Which question means “How many?”",
+      "options": ["Wie viele", "Wie alt", "Wann"],
+      "correctIndex": 0,
+      "explanation": "Correct answer: A. Wie viele"
+    },
+    {
+      "id": "q-151",
+      "category": "W-Questions & Holiday",
+      "prompt": "Which question word means “Where?”",
+      "options": ["Wo", "Wohin", "Woher"],
+      "correctIndex": 0,
+      "explanation": "Correct answer: A. Wo"
+    },
+    {
+      "id": "q-152",
+      "category": "W-Questions & Holiday",
+      "prompt": "Which question word means “From where?”",
+      "options": ["Woher", "Wohin", "Wer"],
+      "correctIndex": 0,
+      "explanation": "Correct answer: A. Woher"
+    },
+    {
+      "id": "q-153",
+      "category": "W-Questions & Holiday",
+      "prompt": "Which question word means “To where?”",
+      "options": ["Wohin", "Wo", "Wie"],
+      "correctIndex": 0,
+      "explanation": "Correct answer: A. Wohin"
+    },
+    {
+      "id": "q-154",
+      "category": "W-Questions & Holiday",
+      "prompt": "Which question word means “Why?”",
+      "options": ["Warum", "Wann", "Was"],
+      "correctIndex": 0,
+      "explanation": "Correct answer: A. Warum"
+    },
+    {
+      "id": "q-155",
+      "category": "W-Questions & Holiday",
+      "prompt": "Which question word means “When?”",
+      "options": ["Wann", "Wer", "Woher"],
+      "correctIndex": 0,
+      "explanation": "Correct answer: A. Wann"
+    },
+    {
+      "id": "q-156",
+      "category": "W-Questions & Holiday",
+      "prompt": "“__________ wohnst du? – In Kairo.”",
+      "options": ["Wo", "Wer", "Wann"],
+      "correctIndex": 0,
+      "explanation": "Correct answer: A. Wo"
+    },
+    {
+      "id": "q-157",
+      "category": "W-Questions & Holiday",
+      "prompt": "“__________ kommt Peter? – Aus Deutschland.”",
+      "options": ["Woher", "Wohin", "Wie"],
+      "correctIndex": 0,
+      "explanation": "Correct answer: A. Woher"
+    },
+    {
+      "id": "q-158",
+      "category": "W-Questions & Holiday",
+      "prompt": "“__________ gehst du? – In den Klub.”",
+      "options": ["Wohin", "Wo", "Wer"],
+      "correctIndex": 0,
+      "explanation": "Correct answer: A. Wohin"
+    },
+    {
+      "id": "q-159",
+      "category": "W-Questions & Holiday",
+      "prompt": "“__________ kommt dein Onkel? – Heute Abend.”",
+      "options": ["Wann", "Warum", "Wie"],
+      "correctIndex": 0,
+      "explanation": "Correct answer: A. Wann"
+    },
+    {
+      "id": "q-160",
+      "category": "W-Questions & Holiday",
+      "prompt": "“__________ ist Omar? – Er ist zehn Jahre alt.”",
+      "options": ["Wie alt", "Wie viele", "Wo"],
+      "correctIndex": 0,
+      "explanation": "Correct answer: A. Wie alt"
+    },
+    {
+      "id": "q-161",
+      "category": "W-Questions & Holiday",
+      "prompt": "Which answer tells who you travel with?",
+      "options": ["Mit meiner Familie.", "Im Sommer.", "Eine Woche."],
+      "correctIndex": 0,
+      "explanation": "Correct answer: A. Mit meiner Familie."
+    },
+    {
+      "id": "q-162",
+      "category": "W-Questions & Holiday",
+      "prompt": "Which answer tells how long you stay?",
+      "options": ["Eine Woche.", "Nach Hurghada.", "Mit meinem Vater."],
+      "correctIndex": 0,
+      "explanation": "Correct answer: A. Eine Woche."
+    },
+    {
+      "id": "q-163",
+      "category": "W-Questions & Holiday",
+      "prompt": "Which answer gives a reason for a holiday?",
+      "options": ["Weil ich schwimmen möchte.", "Am Samstag.", "Mit meiner Schwester."],
+      "correctIndex": 0,
+      "explanation": "Correct answer: A. Weil ich schwimmen möchte."
+    },
+    {
+      "id": "q-164",
+      "category": "Holiday Test",
+      "prompt": "Es ist kalt im Sommer. – Richtig oder falsch?",
+      "options": ["Richtig", "Falsch", "Nicht zu entscheiden"],
+      "correctIndex": 1,
+      "explanation": "Correct answer: B. Falsch"
+    },
+    {
+      "id": "q-165",
+      "category": "Holiday Test",
+      "prompt": "April kommt nach Oktober. – Richtig oder falsch?",
+      "options": ["Richtig", "Falsch", "Nicht zu entscheiden"],
+      "correctIndex": 1,
+      "explanation": "Correct answer: B. Falsch"
+    },
+    {
+      "id": "q-166",
+      "category": "Holiday Test",
+      "prompt": "Es schneit im Winter. – Richtig oder falsch?",
+      "options": ["Richtig", "Falsch", "Nicht zu entscheiden"],
+      "correctIndex": 0,
+      "explanation": "Correct answer: A. Richtig"
+    },
+    {
+      "id": "q-167",
+      "category": "Holiday Test",
+      "prompt": "“Ich fahre ins Gebirge, denn ich will schwimmen.” Is this a logical reason?",
+      "options": ["Ja", "Nein", "Nur im Sommer"],
+      "correctIndex": 1,
+      "explanation": "Correct answer: B. Nein"
+    },
+    {
+      "id": "q-168",
+      "category": "Holiday Test",
+      "prompt": "(__________) Freitag besuche ich meine Tante.",
+      "options": ["Am", "Im", "Um"],
+      "correctIndex": 0,
+      "explanation": "Correct answer: A. Am"
+    },
+    {
+      "id": "q-169",
+      "category": "Holiday Test",
+      "prompt": "Ich fahre mit meiner Familie (__________) Türkei.",
+      "options": ["in die", "nach", "ans"],
+      "correctIndex": 0,
+      "explanation": "Correct answer: A. in die"
+    },
+    {
+      "id": "q-170",
+      "category": "Holiday Test",
+      "prompt": "Es ist (__________) im Sommer.",
+      "options": ["heiß", "kalt", "schneit"],
+      "correctIndex": 0,
+      "explanation": "Correct answer: A. heiß"
+    },
+    {
+      "id": "q-171",
+      "category": "Holiday Test",
+      "prompt": "Ich schlafe (__________) 10 Uhr.",
+      "options": ["um", "am", "im"],
+      "correctIndex": 0,
+      "explanation": "Correct answer: A. um"
+    },
+    {
+      "id": "q-172",
+      "category": "Holiday Test",
+      "prompt": "(__________) alt bist du?",
+      "options": ["Wie", "Wo", "Wann"],
+      "correctIndex": 0,
+      "explanation": "Correct answer: A. Wie"
+    },
+    {
+      "id": "q-173",
+      "category": "Holiday Test",
+      "prompt": "(__________) ist dein Ball? – Unter dem Tisch.",
+      "options": ["Wo", "Wer", "Wohin"],
+      "correctIndex": 0,
+      "explanation": "Correct answer: A. Wo"
+    },
+    {
+      "id": "q-174",
+      "category": "Holiday Test",
+      "prompt": "(__________) fährst du? – Ich fahre im April.",
+      "options": ["Wann", "Woher", "Wer"],
+      "correctIndex": 0,
+      "explanation": "Correct answer: A. Wann"
+    },
+    {
+      "id": "q-175",
+      "category": "Years, Professions & Objects",
+      "prompt": "How do you write 1988 in German?",
+      "options": ["neunzehnhundertachtundachtzig", "achtzehnhundertachtundneunzig", "zweitausendachtundachtzig"],
+      "correctIndex": 0,
+      "explanation": "Correct answer: A. neunzehnhundertachtundachtzig"
+    },
+    {
+      "id": "q-176",
+      "category": "Years, Professions & Objects",
+      "prompt": "How do you write 1999 in German?",
+      "options": ["neunzehnhundertneunundneunzig", "neunzehnhundertachtundneunzig", "zweitausendneunundneunzig"],
+      "correctIndex": 0,
+      "explanation": "Correct answer: A. neunzehnhundertneunundneunzig"
+    },
+    {
+      "id": "q-177",
+      "category": "Years, Professions & Objects",
+      "prompt": "How do you write 2004 in German?",
+      "options": ["zweitausendvier", "zweitausendvierzehn", "zwanzighundertvier"],
+      "correctIndex": 0,
+      "explanation": "Correct answer: A. zweitausendvier"
+    },
+    {
+      "id": "q-178",
+      "category": "Years, Professions & Objects",
+      "prompt": "How do you write 2015 in German?",
+      "options": ["zweitausendfünfzehn", "zweitausendfünf", "zweitausendfünfzig"],
+      "correctIndex": 0,
+      "explanation": "Correct answer: A. zweitausendfünfzehn"
+    },
+    {
+      "id": "q-179",
+      "category": "Years, Professions & Objects",
+      "prompt": "How do you write 2013 in German?",
+      "options": ["zweitausenddreizehn", "zweitausenddreißig", "zweitausenddrei"],
+      "correctIndex": 0,
+      "explanation": "Correct answer: A. zweitausenddreizehn"
+    },
+    {
+      "id": "q-180",
+      "category": "Years, Professions & Objects",
+      "prompt": "Which profession is shown by a person writing with a quill?",
+      "options": ["Der Dichter / Schriftsteller", "Der Arzt", "Der Tänzer"],
+      "correctIndex": 0,
+      "explanation": "Correct answer: A. Der Dichter / Schriftsteller"
+    },
+    {
+      "id": "q-181",
+      "category": "Years, Professions & Objects",
+      "prompt": "Which profession plays the piano?",
+      "options": ["Der Pianist", "Der Wissenschaftler", "Der Schauspieler"],
+      "correctIndex": 0,
+      "explanation": "Correct answer: A. Der Pianist"
+    },
+    {
+      "id": "q-182",
+      "category": "Years, Professions & Objects",
+      "prompt": "Which profession sings on stage?",
+      "options": ["Der Sänger", "Der Arzt", "Der Reformator"],
+      "correctIndex": 0,
+      "explanation": "Correct answer: A. Der Sänger"
+    },
+    {
+      "id": "q-183",
+      "category": "Years, Professions & Objects",
+      "prompt": "Which profession works in a laboratory?",
+      "options": ["Der Wissenschaftler", "Der Dichter", "Der Dramatiker"],
+      "correctIndex": 0,
+      "explanation": "Correct answer: A. Der Wissenschaftler"
+    },
+    {
+      "id": "q-184",
+      "category": "Years, Professions & Objects",
+      "prompt": "What is “der Geburtstag”?",
+      "options": ["Birthday", "Invitation", "Gift"],
+      "correctIndex": 0,
+      "explanation": "Correct answer: A. Birthday"
+    },
+    {
+      "id": "q-185",
+      "category": "Years, Professions & Objects",
+      "prompt": "What is “das Geschenk”?",
+      "options": ["Gift / present", "Book", "Year"],
+      "correctIndex": 0,
+      "explanation": "Correct answer: A. Gift / present"
+    },
+    {
+      "id": "q-186",
+      "category": "Years, Professions & Objects",
+      "prompt": "What is “die Einladung”?",
+      "options": ["Invitation", "Party", "CD"],
+      "correctIndex": 0,
+      "explanation": "Correct answer: A. Invitation"
+    },
+    {
+      "id": "q-187",
+      "category": "Years, Professions & Objects",
+      "prompt": "What is “der Kopfhörer”?",
+      "options": ["Headphones", "Earring", "Camera"],
+      "correctIndex": 0,
+      "explanation": "Correct answer: A. Headphones"
+    },
+    {
+      "id": "q-188",
+      "category": "Years, Professions & Objects",
+      "prompt": "What is “der Ohrring”?",
+      "options": ["Earring", "Headphones", "Perfume"],
+      "correctIndex": 0,
+      "explanation": "Correct answer: A. Earring"
+    },
+    {
+      "id": "q-189",
+      "category": "Years, Professions & Objects",
+      "prompt": "What is “der Fotoapparat”?",
+      "options": ["Camera", "Mobile phone", "Book"],
+      "correctIndex": 0,
+      "explanation": "Correct answer: A. Camera"
+    },
+    {
+      "id": "q-190",
+      "category": "Years, Professions & Objects",
+      "prompt": "What is “der Apfelsaft”?",
+      "options": ["Apple juice", "Perfume", "Aspirin"],
+      "correctIndex": 0,
+      "explanation": "Correct answer: A. Apple juice"
+    },
+    {
+      "id": "q-191",
+      "category": "Years, Professions & Objects",
+      "prompt": "What is “die Pianistin”?",
+      "options": ["Female pianist", "Female dancer", "Female writer"],
+      "correctIndex": 0,
+      "explanation": "Correct answer: A. Female pianist"
+    },
+    {
+      "id": "q-192",
+      "category": "Years, Professions & Objects",
+      "prompt": "What is “die Schauspielerin”?",
+      "options": ["Actress", "Singer", "Philosopher"],
+      "correctIndex": 0,
+      "explanation": "Correct answer: A. Actress"
+    },
+    {
+      "id": "q-193",
+      "category": "Years, Professions & Objects",
+      "prompt": "What is “die Schriftstellerin”?",
+      "options": ["Female writer", "Female doctor", "Female pianist"],
+      "correctIndex": 0,
+      "explanation": "Correct answer: A. Female writer"
+    },
+    {
+      "id": "q-194",
+      "category": "Years, Professions & Objects",
+      "prompt": "What is “das Fahrrad”?",
+      "options": ["Bicycle", "Headphones", "Earring"],
+      "correctIndex": 0,
+      "explanation": "Correct answer: A. Bicycle"
+    },
+    {
+      "id": "q-195",
+      "category": "Years, Professions & Objects",
+      "prompt": "What is “das Handy”?",
+      "options": ["Mobile phone", "Bicycle", "Camera"],
+      "correctIndex": 0,
+      "explanation": "Correct answer: A. Mobile phone"
+    },
+    {
+      "id": "q-196",
+      "category": "The Verb Werden",
+      "prompt": "Wie alt (__________) du?",
+      "options": ["bist", "bin", "ist"],
+      "correctIndex": 0,
+      "explanation": "Correct answer: A. bist"
+    },
+    {
+      "id": "q-197",
+      "category": "The Verb Werden",
+      "prompt": "Ich (__________) 13 Jahre alt.",
+      "options": ["bin", "bist", "ist"],
+      "correctIndex": 0,
+      "explanation": "Correct answer: A. bin"
+    },
+    {
+      "id": "q-198",
+      "category": "The Verb Werden",
+      "prompt": "Mein Bruder (__________) 5 Jahre alt.",
+      "options": ["ist", "sind", "bist"],
+      "correctIndex": 0,
+      "explanation": "Correct answer: A. ist"
+    },
+    {
+      "id": "q-199",
+      "category": "The Verb Werden",
+      "prompt": "Paul und Lisa (__________) 6 Jahre alt.",
+      "options": ["sind", "ist", "seid"],
+      "correctIndex": 0,
+      "explanation": "Correct answer: A. sind"
+    },
+    {
+      "id": "q-200",
+      "category": "The Verb Werden",
+      "prompt": "Du (__________) 11 Jahre alt.",
+      "options": ["bist", "bin", "seid"],
+      "correctIndex": 0,
+      "explanation": "Correct answer: A. bist"
+    },
+    {
+      "id": "q-201",
+      "category": "The Verb Werden",
+      "prompt": "Wie alt (__________) ihr?",
+      "options": ["seid", "sind", "ist"],
+      "correctIndex": 0,
+      "explanation": "Correct answer: A. seid"
+    },
+    {
+      "id": "q-202",
+      "category": "The Verb Werden",
+      "prompt": "Wir (__________) 25 Jahre alt.",
+      "options": ["sind", "seid", "ist"],
+      "correctIndex": 0,
+      "explanation": "Correct answer: A. sind"
+    },
+    {
+      "id": "q-203",
+      "category": "The Verb Werden",
+      "prompt": "Lisa (__________) eine Ärztin.",
+      "options": ["wird", "werde", "werden"],
+      "correctIndex": 0,
+      "explanation": "Correct answer: A. wird"
+    },
+    {
+      "id": "q-204",
+      "category": "Sollen & Imperative",
+      "prompt": "(__________) ich Milch mitbringen?",
+      "options": ["Soll", "Sollt", "Sollen"],
+      "correctIndex": 0,
+      "explanation": "Correct answer: A. Soll"
+    },
+    {
+      "id": "q-205",
+      "category": "Sollen & Imperative",
+      "prompt": "Er soll zu Hause (__________).",
+      "options": ["bleiben", "bleibt", "bleibe"],
+      "correctIndex": 0,
+      "explanation": "Correct answer: A. bleiben"
+    },
+    {
+      "id": "q-206",
+      "category": "Sollen & Imperative",
+      "prompt": "Sollst du Ahmed (__________)?",
+      "options": ["einladen", "ladet ein", "einladest"],
+      "correctIndex": 0,
+      "explanation": "Correct answer: A. einladen"
+    },
+    {
+      "id": "q-207",
+      "category": "Sollen & Imperative",
+      "prompt": "Du sollst einen Kuchen (__________).",
+      "options": ["backen", "backt", "backe"],
+      "correctIndex": 0,
+      "explanation": "Correct answer: A. backen"
+    },
+    {
+      "id": "q-208",
+      "category": "Sollen & Imperative",
+      "prompt": "Choose the correct sentence: anrufen – meine Mutter – soll – Ich.",
+      "options": ["Ich soll meine Mutter anrufen.", "Ich meine Mutter soll anrufen.", "Anrufen soll ich meine Mutter."],
+      "correctIndex": 0,
+      "explanation": "Correct answer: A. Ich soll meine Mutter anrufen."
+    },
+    {
+      "id": "q-209",
+      "category": "Sollen & Imperative",
+      "prompt": "Choose the correct sentence: Deutsch – studieren – sollen – Wir.",
+      "options": ["Wir sollen Deutsch studieren.", "Wir Deutsch sollen studieren.", "Sollen Deutsch wir studieren."],
+      "correctIndex": 0,
+      "explanation": "Correct answer: A. Wir sollen Deutsch studieren."
+    },
+    {
+      "id": "q-210",
+      "category": "Sollen & Imperative",
+      "prompt": "Choose the correct question: soll – Was – Ahmed – machen?",
+      "options": ["Was soll Ahmed machen?", "Was Ahmed soll machen?", "Soll machen Ahmed was?"],
+      "correctIndex": 0,
+      "explanation": "Correct answer: A. Was soll Ahmed machen?"
+    },
+    {
+      "id": "q-211",
+      "category": "Sollen & Imperative",
+      "prompt": "Choose the correct sentence: Ahmed – sollst – einladen – Du.",
+      "options": ["Du sollst Ahmed einladen.", "Du Ahmed sollst einladen.", "Einladen sollst Ahmed du."],
+      "correctIndex": 0,
+      "explanation": "Correct answer: A. Du sollst Ahmed einladen."
+    },
+    {
+      "id": "q-212",
+      "category": "Sollen & Imperative",
+      "prompt": "What is the du-imperative of “sein”?",
+      "options": ["Sei!", "Seid!", "Seien Sie!"],
+      "correctIndex": 0,
+      "explanation": "Correct answer: A. Sei!"
+    },
+    {
+      "id": "q-213",
+      "category": "Sollen & Imperative",
+      "prompt": "What is the du-imperative of “geben”?",
+      "options": ["Gib!", "Gebt!", "Geben Sie!"],
+      "correctIndex": 0,
+      "explanation": "Correct answer: A. Gib!"
+    },
+    {
+      "id": "q-214",
+      "category": "Sollen & Imperative",
+      "prompt": "What is the du-imperative of “kommen”?",
+      "options": ["Komm!", "Kommt!", "Kommen Sie!"],
+      "correctIndex": 0,
+      "explanation": "Correct answer: A. Komm!"
+    },
+    {
+      "id": "q-215",
+      "category": "Sollen & Imperative",
+      "prompt": "What is the du-imperative of “gehen”?",
+      "options": ["Geh!", "Geht!", "Gehen Sie!"],
+      "correctIndex": 0,
+      "explanation": "Correct answer: A. Geh!"
+    },
+    {
+      "id": "q-216",
+      "category": "Sollen & Imperative",
+      "prompt": "What is the du-imperative of “einladen”?",
+      "options": ["Lad ein!", "Ladet ein!", "Laden Sie ein!"],
+      "correctIndex": 0,
+      "explanation": "Correct answer: A. Lad ein!"
+    },
+    {
+      "id": "q-217",
+      "category": "Sollen & Imperative",
+      "prompt": "What is the du-imperative of “bringen”?",
+      "options": ["Bring!", "Bringt!", "Bringen Sie!"],
+      "correctIndex": 0,
+      "explanation": "Correct answer: A. Bring!"
+    },
+    {
+      "id": "q-218",
+      "category": "Sollen & Imperative",
+      "prompt": "What is the ihr-imperative of “nehmen”?",
+      "options": ["Nehmt!", "Nimm!", "Nehmen Sie!"],
+      "correctIndex": 0,
+      "explanation": "Correct answer: A. Nehmt!"
+    },
+    {
+      "id": "q-219",
+      "category": "Sollen & Imperative",
+      "prompt": "What is the ihr-imperative of “essen”?",
+      "options": ["Esst!", "Iss!", "Essen Sie!"],
+      "correctIndex": 0,
+      "explanation": "Correct answer: A. Esst!"
+    },
+    {
+      "id": "q-220",
+      "category": "Sollen & Imperative",
+      "prompt": "What is the ihr-imperative of “fahren”?",
+      "options": ["Fahrt!", "Fahr!", "Fahren Sie!"],
+      "correctIndex": 0,
+      "explanation": "Correct answer: A. Fahrt!"
+    },
+    {
+      "id": "q-221",
+      "category": "Sollen & Imperative",
+      "prompt": "What is the ihr-imperative of “sehen”?",
+      "options": ["Seht!", "Sieh!", "Sehen Sie!"],
+      "correctIndex": 0,
+      "explanation": "Correct answer: A. Seht!"
+    },
+    {
+      "id": "q-222",
+      "category": "Sollen & Imperative",
+      "prompt": "What is the ihr-imperative of “sprechen”?",
+      "options": ["Sprecht!", "Sprich!", "Sprechen Sie!"],
+      "correctIndex": 0,
+      "explanation": "Correct answer: A. Sprecht!"
+    },
+    {
+      "id": "q-223",
+      "category": "Sollen & Imperative",
+      "prompt": "Which advice fits: Helga hat Übergewicht.",
+      "options": ["Treib Sport!", "Weine nicht!", "Back einen Kuchen!"],
+      "correctIndex": 0,
+      "explanation": "Correct answer: A. Treib Sport!"
+    },
+    {
+      "id": "q-224",
+      "category": "Sollen & Imperative",
+      "prompt": "Which advice fits: Frau Waster hat Zahnschmerzen.",
+      "options": ["Gehen Sie zum Zahnarzt!", "Fahr nicht zu schnell!", "Lad Klaus ein!"],
+      "correctIndex": 0,
+      "explanation": "Correct answer: A. Gehen Sie zum Zahnarzt!"
+    },
+    {
+      "id": "q-225",
+      "category": "Birthday & Accusative Pronouns",
+      "prompt": "Which sentence gives your birthday date?",
+      "options": ["Ich habe am 12. Mai Geburtstag.", "Ich bin im Klub.", "Ich lade dich ein."],
+      "correctIndex": 0,
+      "explanation": "Correct answer: A. Ich habe am 12. Mai Geburtstag."
+    },
+    {
+      "id": "q-226",
+      "category": "Birthday & Accusative Pronouns",
+      "prompt": "Which sentence tells your age?",
+      "options": ["Ich werde 13 Jahre alt.", "Ich fahre nach Wien.", "Ich brauche einen Ball."],
+      "correctIndex": 0,
+      "explanation": "Correct answer: A. Ich werde 13 Jahre alt."
+    },
+    {
+      "id": "q-227",
+      "category": "Birthday & Accusative Pronouns",
+      "prompt": "Which sentence tells where the party is?",
+      "options": ["Die Party ist bei mir zu Hause.", "Ich bin 13 Jahre alt.", "Ich habe im Mai Geburtstag."],
+      "correctIndex": 0,
+      "explanation": "Correct answer: A. Die Party ist bei mir zu Hause."
+    },
+    {
+      "id": "q-228",
+      "category": "Birthday & Accusative Pronouns",
+      "prompt": "Ist das für die Mutter? – Ja, das ist für (__________).",
+      "options": ["sie", "mich", "ihn"],
+      "correctIndex": 0,
+      "explanation": "Correct answer: A. sie"
+    },
+    {
+      "id": "q-229",
+      "category": "Birthday & Accusative Pronouns",
+      "prompt": "Ist das für mich? – Ja, das ist für (__________).",
+      "options": ["mich", "dich", "uns"],
+      "correctIndex": 0,
+      "explanation": "Correct answer: A. mich"
+    },
+    {
+      "id": "q-230",
+      "category": "Birthday & Accusative Pronouns",
+      "prompt": "Ist das für deinen Vater? – Ja, das ist für (__________).",
+      "options": ["ihn", "sie", "mich"],
+      "correctIndex": 0,
+      "explanation": "Correct answer: A. ihn"
+    },
+    {
+      "id": "q-231",
+      "category": "Birthday & Accusative Pronouns",
+      "prompt": "Das ist für (__________). (wir)",
+      "options": ["uns", "sie", "ihn"],
+      "correctIndex": 0,
+      "explanation": "Correct answer: A. uns"
+    },
+    {
+      "id": "q-232",
+      "category": "Birthday & Accusative Pronouns",
+      "prompt": "Ist das für die Kinder? – Nein, nicht für (__________).",
+      "options": ["sie", "ihn", "mich"],
+      "correctIndex": 0,
+      "explanation": "Correct answer: A. sie"
+    },
+    {
+      "id": "q-233",
+      "category": "Birthday & Accusative Pronouns",
+      "prompt": "Für wen ist das Buch, für (__________)? (du)",
+      "options": ["dich", "dir", "du"],
+      "correctIndex": 0,
+      "explanation": "Correct answer: A. dich"
+    },
+    {
+      "id": "q-234",
+      "category": "Health & Body Parts",
+      "prompt": "What does “der Husten” mean?",
+      "options": ["Cough", "Fever", "Stomachache"],
+      "correctIndex": 0,
+      "explanation": "Correct answer: A. Cough"
+    },
+    {
+      "id": "q-235",
+      "category": "Health & Body Parts",
+      "prompt": "What does “das Fieber” mean?",
+      "options": ["Fever", "Cold / runny nose", "Toothache"],
+      "correctIndex": 0,
+      "explanation": "Correct answer: A. Fever"
+    },
+    {
+      "id": "q-236",
+      "category": "Health & Body Parts",
+      "prompt": "What does “der Schnupfen” mean?",
+      "options": ["Runny nose", "Headache", "Medicine"],
+      "correctIndex": 0,
+      "explanation": "Correct answer: A. Runny nose"
+    },
+    {
+      "id": "q-237",
+      "category": "Health & Body Parts",
+      "prompt": "What does “die Bauchschmerzen” mean?",
+      "options": ["Stomachache", "Toothache", "Sore throat"],
+      "correctIndex": 0,
+      "explanation": "Correct answer: A. Stomachache"
+    },
+    {
+      "id": "q-238",
+      "category": "Health & Body Parts",
+      "prompt": "What does “die Zahnschmerzen” mean?",
+      "options": ["Toothache", "Headache", "Cough"],
+      "correctIndex": 0,
+      "explanation": "Correct answer: A. Toothache"
+    },
+    {
+      "id": "q-239",
+      "category": "Health & Body Parts",
+      "prompt": "What does “die Kopfschmerzen” mean?",
+      "options": ["Headache", "Stomachache", "Fever"],
+      "correctIndex": 0,
+      "explanation": "Correct answer: A. Headache"
+    },
+    {
+      "id": "q-240",
+      "category": "Health & Body Parts",
+      "prompt": "What does “die Halsschmerzen” mean?",
+      "options": ["Sore throat", "Toothache", "Runny nose"],
+      "correctIndex": 0,
+      "explanation": "Correct answer: A. Sore throat"
+    },
+    {
+      "id": "q-241",
+      "category": "Health & Body Parts",
+      "prompt": "What does “der Hustensaft” mean?",
+      "options": ["Cough syrup", "Tablet", "Nasal drops"],
+      "correctIndex": 0,
+      "explanation": "Correct answer: A. Cough syrup"
+    },
+    {
+      "id": "q-242",
+      "category": "Health & Body Parts",
+      "prompt": "What does “die Tablette” mean?",
+      "options": ["Tablet", "Doctor", "Problem"],
+      "correctIndex": 0,
+      "explanation": "Correct answer: A. Tablet"
+    },
+    {
+      "id": "q-243",
+      "category": "Health & Body Parts",
+      "prompt": "What is “der Kopf”?",
+      "options": ["Head", "Hand", "Foot"],
+      "correctIndex": 0,
+      "explanation": "Correct answer: A. Head"
+    },
+    {
+      "id": "q-244",
+      "category": "Health & Body Parts",
+      "prompt": "What is “der Mund”?",
+      "options": ["Mouth", "Nose", "Ear"],
+      "correctIndex": 0,
+      "explanation": "Correct answer: A. Mouth"
+    },
+    {
+      "id": "q-245",
+      "category": "Health & Body Parts",
+      "prompt": "What is “die Nase”?",
+      "options": ["Nose", "Neck", "Knee"],
+      "correctIndex": 0,
+      "explanation": "Correct answer: A. Nose"
+    },
+    {
+      "id": "q-246",
+      "category": "Health & Body Parts",
+      "prompt": "What is “der Hals”?",
+      "options": ["Neck / throat", "Finger", "Foot"],
+      "correctIndex": 0,
+      "explanation": "Correct answer: A. Neck / throat"
+    },
+    {
+      "id": "q-247",
+      "category": "Health & Body Parts",
+      "prompt": "What is “das Gesicht”?",
+      "options": ["Face", "Arm", "Leg"],
+      "correctIndex": 0,
+      "explanation": "Correct answer: A. Face"
+    },
+    {
+      "id": "q-248",
+      "category": "Health & Body Parts",
+      "prompt": "What is “die Hand”?",
+      "options": ["Hand", "Hair", "Ear"],
+      "correctIndex": 0,
+      "explanation": "Correct answer: A. Hand"
+    },
+    {
+      "id": "q-249",
+      "category": "Health & Body Parts",
+      "prompt": "What is “der Finger”?",
+      "options": ["Finger", "Toe", "Knee"],
+      "correctIndex": 0,
+      "explanation": "Correct answer: A. Finger"
+    },
+    {
+      "id": "q-250",
+      "category": "Health & Body Parts",
+      "prompt": "What is “die Zehe”?",
+      "options": ["Toe", "Finger", "Arm"],
+      "correctIndex": 0,
+      "explanation": "Correct answer: A. Toe"
+    },
+    {
+      "id": "q-251",
+      "category": "Health & Body Parts",
+      "prompt": "What is “der Fuß”?",
+      "options": ["Foot", "Head", "Mouth"],
+      "correctIndex": 0,
+      "explanation": "Correct answer: A. Foot"
+    },
+    {
+      "id": "q-252",
+      "category": "Health & Body Parts",
+      "prompt": "What is “das Bein”?",
+      "options": ["Leg", "Hand", "Ear"],
+      "correctIndex": 0,
+      "explanation": "Correct answer: A. Leg"
+    },
+    {
+      "id": "q-253",
+      "category": "Health & Body Parts",
+      "prompt": "What is “der Arm”?",
+      "options": ["Arm", "Hair", "Nose"],
+      "correctIndex": 0,
+      "explanation": "Correct answer: A. Arm"
+    },
+    {
+      "id": "q-254",
+      "category": "Health & Body Parts",
+      "prompt": "What is “das Haar”?",
+      "options": ["Hair", "Eye", "Tooth"],
+      "correctIndex": 0,
+      "explanation": "Correct answer: A. Hair"
+    },
+    {
+      "id": "q-255",
+      "category": "Health & Body Parts",
+      "prompt": "What is “das Ohr”?",
+      "options": ["Ear", "Eye", "Mouth"],
+      "correctIndex": 0,
+      "explanation": "Correct answer: A. Ear"
+    },
+    {
+      "id": "q-256",
+      "category": "Health & Body Parts",
+      "prompt": "What is “das Auge”?",
+      "options": ["Eye", "Ear", "Nose"],
+      "correctIndex": 0,
+      "explanation": "Correct answer: A. Eye"
+    },
+    {
+      "id": "q-257",
+      "category": "Health & Body Parts",
+      "prompt": "What is “der Zahn”?",
+      "options": ["Tooth", "Tongue", "Lip"],
+      "correctIndex": 0,
+      "explanation": "Correct answer: A. Tooth"
+    },
+    {
+      "id": "q-258",
+      "category": "Health & Body Parts",
+      "prompt": "What is “die Lippe”?",
+      "options": ["Lip", "Knee", "Finger"],
+      "correctIndex": 0,
+      "explanation": "Correct answer: A. Lip"
+    },
+    {
+      "id": "q-259",
+      "category": "Health & Body Parts",
+      "prompt": "What is “das Knie”?",
+      "options": ["Knee", "Foot", "Face"],
+      "correctIndex": 0,
+      "explanation": "Correct answer: A. Knee"
+    },
+    {
+      "id": "q-260",
+      "category": "Health Dialogues & Grammar",
+      "prompt": "“Wie geht’s dir?” – Choose a suitable answer.",
+      "options": ["Mir geht es gut, danke.", "Ich bin 13 Jahre alt.", "Ich fahre nach Wien."],
+      "correctIndex": 0,
+      "explanation": "Correct answer: A. Mir geht es gut, danke."
+    },
+    {
+      "id": "q-261",
+      "category": "Health Dialogues & Grammar",
+      "prompt": "“Was tut dir weh?” – Choose a suitable answer.",
+      "options": ["Mein Kopf tut weh.", "Ich heiße Daniela.", "Es ist sonnig."],
+      "correctIndex": 0,
+      "explanation": "Correct answer: A. Mein Kopf tut weh."
+    },
+    {
+      "id": "q-262",
+      "category": "Health Dialogues & Grammar",
+      "prompt": "Ich habe Halsschmerzen. Ich kann nicht (__________).",
+      "options": ["sprechen", "schwimmen", "backen"],
+      "correctIndex": 0,
+      "explanation": "Correct answer: A. sprechen"
+    },
+    {
+      "id": "q-263",
+      "category": "Health Dialogues & Grammar",
+      "prompt": "Wie geht’s dir? – (__________) geht es gut.",
+      "options": ["Mir", "Mich", "Mein"],
+      "correctIndex": 0,
+      "explanation": "Correct answer: A. Mir"
+    },
+    {
+      "id": "q-264",
+      "category": "Health Dialogues & Grammar",
+      "prompt": "Wie geht’s den Kindern? – (__________) geht’s prima.",
+      "options": ["Ihnen", "Ihr", "Sie"],
+      "correctIndex": 0,
+      "explanation": "Correct answer: A. Ihnen"
+    },
+    {
+      "id": "q-265",
+      "category": "Health Dialogues & Grammar",
+      "prompt": "Ich habe Husten. – (__________) Sie Hustensaft!",
+      "options": ["Nehmen", "Nimm", "Nehmt"],
+      "correctIndex": 0,
+      "explanation": "Correct answer: A. Nehmen"
+    },
+    {
+      "id": "q-266",
+      "category": "Health Dialogues & Grammar",
+      "prompt": "(__________) gehört die Tasche? – Deiner Mutter.",
+      "options": ["Wem", "Wer", "Wo"],
+      "correctIndex": 0,
+      "explanation": "Correct answer: A. Wem"
+    },
+    {
+      "id": "q-267",
+      "category": "Health Dialogues & Grammar",
+      "prompt": "(__________) gehört die Schmerztablette? – Ihrem Vater.",
+      "options": ["Wem", "Wie", "Wann"],
+      "correctIndex": 0,
+      "explanation": "Correct answer: A. Wem"
+    },
+    {
+      "id": "q-268",
+      "category": "Health Dialogues & Grammar",
+      "prompt": "Which question matches: “Mir tut der Bauch weh.”",
+      "options": ["Was tut dir weh?", "Wie alt bist du?", "Wo wohnst du?"],
+      "correctIndex": 0,
+      "explanation": "Correct answer: A. Was tut dir weh?"
+    },
+    {
+      "id": "q-269",
+      "category": "Health Dialogues & Grammar",
+      "prompt": "Lisa tun die Augen weh. Sie kann nicht (__________).",
+      "options": ["sehen", "hören", "laufen"],
+      "correctIndex": 0,
+      "explanation": "Correct answer: A. sehen"
+    },
+    {
+      "id": "q-270",
+      "category": "Health Dialogues & Grammar",
+      "prompt": "Wie geht’s deiner Mutter? – (__________) geht’s nicht gut.",
+      "options": ["Ihr", "Ihm", "Uns"],
+      "correctIndex": 0,
+      "explanation": "Correct answer: A. Ihr"
+    },
+    {
+      "id": "q-271",
+      "category": "Health Dialogues & Grammar",
+      "prompt": "Ich habe Kopfschmerzen. – (__________) Schmerztabletten!",
+      "options": ["Nimm", "Nehmen", "Nehmt"],
+      "correctIndex": 0,
+      "explanation": "Correct answer: A. Nimm"
+    },
+    {
+      "id": "q-272",
+      "category": "Health Dialogues & Grammar",
+      "prompt": "Ich (__________) Fieber.",
+      "options": ["habe", "bin", "tue"],
+      "correctIndex": 0,
+      "explanation": "Correct answer: A. habe"
+    },
+    {
+      "id": "q-273",
+      "category": "Health Dialogues & Grammar",
+      "prompt": "Ich (__________) Schnupfen.",
+      "options": ["habe", "bin", "tut"],
+      "correctIndex": 0,
+      "explanation": "Correct answer: A. habe"
+    },
+    {
+      "id": "q-274",
+      "category": "Health Dialogues & Grammar",
+      "prompt": "Mein Rücken (__________).",
+      "options": ["tut weh", "bin weh", "hat weh"],
+      "correctIndex": 0,
+      "explanation": "Correct answer: A. tut weh"
+    },
+    {
+      "id": "q-275",
+      "category": "Health Dialogues & Grammar",
+      "prompt": "Sie (__________) sich nicht gut.",
+      "options": ["fühlt", "ist", "hat"],
+      "correctIndex": 0,
+      "explanation": "Correct answer: A. fühlt"
+    },
+    {
+      "id": "q-276",
+      "category": "Health Dialogues & Grammar",
+      "prompt": "Meine Beine (__________) weh.",
+      "options": ["tun", "sind", "ist"],
+      "correctIndex": 0,
+      "explanation": "Correct answer: A. tun"
+    },
+    {
+      "id": "q-277",
+      "category": "Health Dialogues & Grammar",
+      "prompt": "(__________) du Kopfschmerzen?",
+      "options": ["Hast", "Bist", "Tut"],
+      "correctIndex": 0,
+      "explanation": "Correct answer: A. Hast"
+    },
+    {
+      "id": "q-278",
+      "category": "Health Dialogues & Grammar",
+      "prompt": "Ich (__________) Bauchschmerzen.",
+      "options": ["habe", "bin", "tue"],
+      "correctIndex": 0,
+      "explanation": "Correct answer: A. habe"
+    },
+    {
+      "id": "q-279",
+      "category": "Health Dialogues & Grammar",
+      "prompt": "(__________) er Fieber?",
+      "options": ["Hat", "Ist", "Tut"],
+      "correctIndex": 0,
+      "explanation": "Correct answer: A. Hat"
+    },
+    {
+      "id": "q-280",
+      "category": "Health Dialogues & Grammar",
+      "prompt": "Ich (__________) Zahnschmerzen.",
+      "options": ["habe", "bin", "tue"],
+      "correctIndex": 0,
+      "explanation": "Correct answer: A. habe"
+    },
+    {
+      "id": "q-281",
+      "category": "Health Dialogues & Grammar",
+      "prompt": "(__________) du krank?",
+      "options": ["Bist", "Hast", "Tust"],
+      "correctIndex": 0,
+      "explanation": "Correct answer: A. Bist"
+    },
+    {
+      "id": "q-282",
+      "category": "Health Dialogues & Grammar",
+      "prompt": "Mir (__________) schlecht.",
+      "options": ["ist", "bin", "habe"],
+      "correctIndex": 0,
+      "explanation": "Correct answer: A. ist"
+    },
+    {
+      "id": "q-283",
+      "category": "Health Dialogues & Grammar",
+      "prompt": "Which phrase is a suitable response after someone describes an accident?",
+      "options": ["Gute Besserung!", "Guten Appetit!", "Gute Reise!"],
+      "correctIndex": 0,
+      "explanation": "Correct answer: A. Gute Besserung!"
+    },
+    {
+      "id": "q-284",
+      "category": "Reading Comprehension – Daniela",
+      "context": "Text facts: Daniela is 13; her sister Simona is two years younger; they attend the Neue Mittelschule in Tulln; they walk or cycle to school; their father Slavko is from Serbia; the family often speaks Serbian with him.",
+      "prompt": "How old is Simona?",
+      "options": ["11 years old", "12 years old", "15 years old"],
+      "correctIndex": 0,
+      "explanation": "Correct answer: A. 11 years old"
+    },
+    {
+      "id": "q-285",
+      "category": "Reading Comprehension – Daniela",
+      "context": "Text facts: Daniela is 13; her sister Simona is two years younger; they attend the Neue Mittelschule in Tulln; they walk or cycle to school; their father Slavko is from Serbia; the family often speaks Serbian with him.",
+      "prompt": "Which school do the sisters attend?",
+      "options": ["Neue Mittelschule in Tulln", "A school in Serbia", "A school in Vienna"],
+      "correctIndex": 0,
+      "explanation": "Correct answer: A. Neue Mittelschule in Tulln"
+    },
+    {
+      "id": "q-286",
+      "category": "Reading Comprehension – Daniela",
+      "context": "Text facts: Daniela is 13; her sister Simona is two years younger; they attend the Neue Mittelschule in Tulln; they walk or cycle to school; their father Slavko is from Serbia; the family often speaks Serbian with him.",
+      "prompt": "How do the girls get to school?",
+      "options": ["On foot or by bicycle", "By train only", "By car every day"],
+      "correctIndex": 0,
+      "explanation": "Correct answer: A. On foot or by bicycle"
+    },
+    {
+      "id": "q-287",
+      "category": "Reading Comprehension – Daniela",
+      "context": "Text facts: Daniela is 13; her sister Simona is two years younger; they attend the Neue Mittelschule in Tulln; they walk or cycle to school; their father Slavko is from Serbia; the family often speaks Serbian with him.",
+      "prompt": "Where is Daniela’s father from?",
+      "options": ["Serbia", "Germany", "Austria"],
+      "correctIndex": 0,
+      "explanation": "Correct answer: A. Serbia"
+    },
+    {
+      "id": "q-288",
+      "category": "Reading Comprehension – Daniela",
+      "context": "Text facts: Daniela is 13; her sister Simona is two years younger; they attend the Neue Mittelschule in Tulln; they walk or cycle to school; their father Slavko is from Serbia; the family often speaks Serbian with him.",
+      "prompt": "What is her father’s name?",
+      "options": ["Slavko", "Simona", "Tanja"],
+      "correctIndex": 0,
+      "explanation": "Correct answer: A. Slavko"
+    },
+    {
+      "id": "q-289",
+      "category": "Reading Comprehension – Daniela",
+      "context": "Text facts: Daniela is 13; her sister Simona is two years younger; they attend the Neue Mittelschule in Tulln; they walk or cycle to school; their father Slavko is from Serbia; the family often speaks Serbian with him.",
+      "prompt": "What is Daniela’s mother’s name?",
+      "options": ["Tanja", "Simona", "Daniela"],
+      "correctIndex": 0,
+      "explanation": "Correct answer: A. Tanja"
+    },
+    {
+      "id": "q-290",
+      "category": "Reading Comprehension – Daniela",
+      "context": "Text facts: Daniela is 13; her sister Simona is two years younger; they attend the Neue Mittelschule in Tulln; they walk or cycle to school; their father Slavko is from Serbia; the family often speaks Serbian with him.",
+      "prompt": "What does her father do?",
+      "options": ["He is a dentist.", "He is a teacher.", "He is a football player."],
+      "correctIndex": 0,
+      "explanation": "Correct answer: A. He is a dentist."
+    },
+    {
+      "id": "q-291",
+      "category": "Reading Comprehension – Daniela",
+      "context": "Text facts: Daniela is 13; her sister Simona is two years younger; they attend the Neue Mittelschule in Tulln; they walk or cycle to school; their father Slavko is from Serbia; the family often speaks Serbian with him.",
+      "prompt": "Why can’t the family have a dog?",
+      "options": ["Simona is allergic to animal hair.", "Daniela is afraid of dogs.", "They live in a small flat."],
+      "correctIndex": 0,
+      "explanation": "Correct answer: A. Simona is allergic to animal hair."
+    },
+    {
+      "id": "q-292",
+      "category": "Reading Comprehension – Daniela",
+      "context": "Text facts: Daniela is 13; her sister Simona is two years younger; they attend the Neue Mittelschule in Tulln; they walk or cycle to school; their father Slavko is from Serbia; the family often speaks Serbian with him.",
+      "prompt": "What do they have in the living room?",
+      "options": ["A large aquarium with colourful fish", "A dog", "A horse"],
+      "correctIndex": 0,
+      "explanation": "Correct answer: A. A large aquarium with colourful fish"
+    },
+    {
+      "id": "q-293",
+      "category": "Reading Comprehension – Daniela",
+      "context": "Text facts: Daniela is 13; her sister Simona is two years younger; they attend the Neue Mittelschule in Tulln; they walk or cycle to school; their father Slavko is from Serbia; the family often speaks Serbian with him.",
+      "prompt": "Which language do they often speak with their father?",
+      "options": ["Serbian", "French", "Spanish"],
+      "correctIndex": 0,
+      "explanation": "Correct answer: A. Serbian"
+    },
+    {
+      "id": "q-294",
+      "category": "Symptoms & Body Parts",
+      "prompt": "Which symptom means “Halsweh”?",
+      "options": ["Sore throat", "Stomachache", "Backache"],
+      "correctIndex": 0,
+      "explanation": "Correct answer: A. Sore throat"
+    },
+    {
+      "id": "q-295",
+      "category": "Symptoms & Body Parts",
+      "prompt": "Which symptom means “Bauchschmerzen”?",
+      "options": ["Stomachache", "Toothache", "Headache"],
+      "correctIndex": 0,
+      "explanation": "Correct answer: A. Stomachache"
+    },
+    {
+      "id": "q-296",
+      "category": "Symptoms & Body Parts",
+      "prompt": "Which symptom means “Rückenschmerzen”?",
+      "options": ["Backache", "Cough", "Fever"],
+      "correctIndex": 0,
+      "explanation": "Correct answer: A. Backache"
+    },
+    {
+      "id": "q-297",
+      "category": "Symptoms & Body Parts",
+      "prompt": "Which symptom means “Kopfschmerzen”?",
+      "options": ["Headache", "Runny nose", "Toothache"],
+      "correctIndex": 0,
+      "explanation": "Correct answer: A. Headache"
+    },
+    {
+      "id": "q-298",
+      "category": "Symptoms & Body Parts",
+      "prompt": "Which symptom means “Zahnschmerzen”?",
+      "options": ["Toothache", "Stomachache", "Leg pain"],
+      "correctIndex": 0,
+      "explanation": "Correct answer: A. Toothache"
+    },
+    {
+      "id": "q-299",
+      "category": "Symptoms & Body Parts",
+      "prompt": "Which symptom means “Schmerzen in den Beinen”?",
+      "options": ["Pain in the legs", "Sore throat", "Headache"],
+      "correctIndex": 0,
+      "explanation": "Correct answer: A. Pain in the legs"
+    },
+    {
+      "id": "q-300",
+      "category": "Symptoms & Body Parts",
+      "prompt": "Which symptom means “Husten”?",
+      "options": ["Cough", "Fever", "Flu"],
+      "correctIndex": 0,
+      "explanation": "Correct answer: A. Cough"
+    },
+    {
+      "id": "q-301",
+      "category": "Symptoms & Body Parts",
+      "prompt": "Which symptom means “Schnupfen”?",
+      "options": ["Runny nose", "Backache", "Toothache"],
+      "correctIndex": 0,
+      "explanation": "Correct answer: A. Runny nose"
+    },
+    {
+      "id": "q-302",
+      "category": "Symptoms & Body Parts",
+      "prompt": "Which symptom means “Fieber”?",
+      "options": ["Fever", "Cough", "Stomachache"],
+      "correctIndex": 0,
+      "explanation": "Correct answer: A. Fever"
+    },
+    {
+      "id": "q-303",
+      "category": "Symptoms & Body Parts",
+      "prompt": "Which symptom means “Grippe”?",
+      "options": ["Flu", "Headache", "Sore throat"],
+      "correctIndex": 0,
+      "explanation": "Correct answer: A. Flu"
+    },
+    {
+      "id": "q-304",
+      "category": "Symptoms & Body Parts",
+      "prompt": "Ich fühle / habe Fieber. Choose the correct verb.",
+      "options": ["habe", "bin", "tue"],
+      "correctIndex": 0,
+      "explanation": "Correct answer: A. habe"
+    },
+    {
+      "id": "q-305",
+      "category": "Symptoms & Body Parts",
+      "prompt": "Which item does not belong: Auge – Nase – Bauch – Mund – Zahn?",
+      "options": ["Bauch", "Nase", "Mund"],
+      "correctIndex": 0,
+      "explanation": "Correct answer: A. Bauch"
+    },
+    {
+      "id": "q-306",
+      "category": "Symptoms & Body Parts",
+      "prompt": "Which item does not belong: Bein – Fuß – Zeh – Knie – Finger?",
+      "options": ["Finger", "Fuß", "Knie"],
+      "correctIndex": 0,
+      "explanation": "Correct answer: A. Finger"
+    },
+    {
+      "id": "q-307",
+      "category": "Symptoms & Body Parts",
+      "prompt": "Which item does not belong: Rücken – Po – Brust – Schulter – Oberkörper?",
+      "options": ["Oberkörper", "Rücken", "Schulter"],
+      "correctIndex": 0,
+      "explanation": "Correct answer: A. Oberkörper"
+    },
+    {
+      "id": "q-308",
+      "category": "Symptoms & Body Parts",
+      "prompt": "Which body part do you use to see?",
+      "options": ["Die Augen", "Die Ohren", "Die Beine"],
+      "correctIndex": 0,
+      "explanation": "Correct answer: A. Die Augen"
+    },
+    {
+      "id": "q-309",
+      "category": "Symptoms & Body Parts",
+      "prompt": "Which body part do you use to hear?",
+      "options": ["Die Ohren", "Die Augen", "Die Hände"],
+      "correctIndex": 0,
+      "explanation": "Correct answer: A. Die Ohren"
+    },
+    {
+      "id": "q-310",
+      "category": "Symptoms & Body Parts",
+      "prompt": "Which body part do you use to speak?",
+      "options": ["Der Mund", "Der Fuß", "Das Knie"],
+      "correctIndex": 0,
+      "explanation": "Correct answer: A. Der Mund"
+    },
+    {
+      "id": "q-311",
+      "category": "Symptoms & Body Parts",
+      "prompt": "Which body parts do you use to walk?",
+      "options": ["Die Beine und Füße", "Die Augen", "Die Ohren"],
+      "correctIndex": 0,
+      "explanation": "Correct answer: A. Die Beine und Füße"
+    },
+    {
+      "id": "q-312",
+      "category": "Symptoms & Body Parts",
+      "prompt": "Which body part is associated with thinking?",
+      "options": ["Das Gehirn", "Der Fuß", "Die Hand"],
+      "correctIndex": 0,
+      "explanation": "Correct answer: A. Das Gehirn"
+    },
+    {
+      "id": "q-313",
+      "category": "Symptoms & Body Parts",
+      "prompt": "Which body parts help you eat?",
+      "options": ["Der Mund und die Zähne", "Die Ohren", "Die Knie"],
+      "correctIndex": 0,
+      "explanation": "Correct answer: A. Der Mund und die Zähne"
+    },
+    {
+      "id": "q-314",
+      "category": "By School – W2 HW G6",
+      "prompt": "Wähle aus! Mein Bruder __________ gut Ski fahren.",
+      "options": ["kann", "muss", "will"],
+      "correctIndex": 0,
+      "explanation": "Richtige Antwort: A. kann"
+    },
+    {
+      "id": "q-315",
+      "category": "By School – W2 HW G6",
+      "prompt": "Wähle aus! Wir __________ im Sommer nach Spanien fahren.",
+      "options": ["müssen", "Wollen", "Will"],
+      "correctIndex": 1,
+      "explanation": "Richtige Antwort: B. Wollen"
+    },
+    {
+      "id": "q-316",
+      "category": "By School – W2 HW G6",
+      "prompt": "Wähle aus! Du __________ Deutsch lernen.",
+      "options": ["will", "Wollen", "willst"],
+      "correctIndex": 2,
+      "explanation": "Richtige Antwort: C. willst"
+    },
+    {
+      "id": "q-317",
+      "category": "By School – W2 HW G6",
+      "prompt": "Wähle aus! Ich und Yahia __________ die Hausaufgaben machen.",
+      "options": ["müssen", "müsst", "muss"],
+      "correctIndex": 0,
+      "explanation": "Richtige Antwort: A. müssen"
+    },
+    {
+      "id": "q-318",
+      "category": "By School – W2 HW G6",
+      "prompt": "Wähle aus! Younis und Hamza __________ sehr gut Fußball spielen.",
+      "options": ["könnt", "können", "kann"],
+      "correctIndex": 1,
+      "explanation": "Richtige Antwort: B. können"
+    },
+    {
+      "id": "q-319",
+      "category": "By School – W2 HW G6",
+      "prompt": "Wähle aus! Lang will nach China __________.",
+      "options": ["fahre", "fahren", "Fahrt"],
+      "correctIndex": 1,
+      "explanation": "Richtige Antwort: B. fahren"
+    },
+    {
+      "id": "q-320",
+      "category": "By School – W2 HW G6",
+      "prompt": "Verbinde! Jury __________ sehr gut Deutsch sprechen.",
+      "options": ["machen", "muss", "will", "kann"],
+      "correctIndex": 3,
+      "explanation": "Richtige Antwort: D. kann"
+    },
+    {
+      "id": "q-321",
+      "category": "By School – W2 HW G6",
+      "prompt": "Verbinde! Talya __________ Pizza essen.",
+      "options": ["machen", "muss", "will", "kann"],
+      "correctIndex": 2,
+      "explanation": "Richtige Antwort: C. will"
+    },
+    {
+      "id": "q-322",
+      "category": "By School – W2 HW G6",
+      "prompt": "Verbinde! Es ist zu spät. Ich __________ nach Hause gehen.",
+      "options": ["machen", "muss", "will", "kann"],
+      "correctIndex": 1,
+      "explanation": "Richtige Antwort: B. muss"
+    },
+    {
+      "id": "q-323",
+      "category": "By School – W2 HW G6",
+      "prompt": "Verbinde! Ali muss die Hausaufgaben __________.",
+      "options": ["machen", "muss", "will", "kann"],
+      "correctIndex": 0,
+      "explanation": "Richtige Antwort: A. machen"
+    },
+    {
+      "id": "q-324",
+      "category": "By School – W2 HW G6",
+      "prompt": "Ordne! (Yossef · gut · kann · schwimmen · sehr)",
+      "options": [
+        "Yossef kann sehr gut schwimmen.",
+        "Yossef sehr gut schwimmen kann.",
+        "Yossef schwimmen kann sehr gut.",
+        "Kann Yossef schwimmen sehr gut."
+      ],
+      "correctIndex": 0,
+      "explanation": "Richtige Antwort: A. Yossef kann sehr gut schwimmen."
+    },
+    {
+      "id": "q-325",
+      "category": "By School – W2 HW G6",
+      "prompt": "Ordne! (du · kannst · Was · machen?)",
+      "options": [
+        "Was du kannst machen?",
+        "Was kannst du machen?",
+        "Kannst was du machen?",
+        "Was machen kannst du?"
+      ],
+      "correctIndex": 1,
+      "explanation": "Richtige Antwort: B. Was kannst du machen?"
+    },
+    {
+      "id": "q-326",
+      "category": "By School – W2 HW G6",
+      "prompt": "Ergänze die Tabelle (können): ich __________",
+      "options": ["kann", "kannst", "können", "könnt"],
+      "correctIndex": 0,
+      "explanation": "Richtige Antwort: A. kann"
+    },
+    {
+      "id": "q-327",
+      "category": "By School – W2 HW G6",
+      "prompt": "Ergänze die Tabelle (müssen): ich __________",
+      "options": ["musst", "muss", "müssen", "müsst"],
+      "correctIndex": 1,
+      "explanation": "Richtige Antwort: B. muss"
+    },
+    {
+      "id": "q-328",
+      "category": "By School – W2 HW G6",
+      "prompt": "Ergänze die Tabelle (müssen): du __________",
+      "options": ["muss", "müsst", "musst", "müssen"],
+      "correctIndex": 2,
+      "explanation": "Richtige Antwort: C. musst"
+    },
+    {
+      "id": "q-329",
+      "category": "By School – W2 HW G6",
+      "prompt": "Ergänze die Tabelle (wollen): du __________",
+      "options": ["will", "wollt", "wollen", "willst"],
+      "correctIndex": 3,
+      "explanation": "Richtige Antwort: D. willst"
+    },
+    {
+      "id": "q-330",
+      "category": "By School – W2 HW G6",
+      "prompt": "Ergänze die Tabelle (können): er, sie, es __________",
+      "options": ["kann", "kannst", "könnt", "können"],
+      "correctIndex": 0,
+      "explanation": "Richtige Antwort: A. kann"
+    },
+    {
+      "id": "q-331",
+      "category": "By School – W2 HW G6",
+      "prompt": "Ergänze die Tabelle (müssen): er, sie, es __________",
+      "options": ["musst", "muss", "müssen", "müsst"],
+      "correctIndex": 1,
+      "explanation": "Richtige Antwort: B. muss"
+    },
+    {
+      "id": "q-332",
+      "category": "By School – W2 HW G6",
+      "prompt": "Ergänze die Tabelle (wollen): er, sie, es __________",
+      "options": ["willst", "wollt", "will", "wollen"],
+      "correctIndex": 2,
+      "explanation": "Richtige Antwort: C. will"
+    },
+    {
+      "id": "q-333",
+      "category": "By School – W2 HW G6",
+      "prompt": "Ergänze die Tabelle (können): wir __________",
+      "options": ["kann", "könnt", "kannst", "können"],
+      "correctIndex": 3,
+      "explanation": "Richtige Antwort: D. können"
+    },
+    {
+      "id": "q-334",
+      "category": "By School – W2 HW G6",
+      "prompt": "Ergänze die Tabelle (müssen): wir __________",
+      "options": ["müssen", "muss", "musst", "müsst"],
+      "correctIndex": 0,
+      "explanation": "Richtige Antwort: A. müssen"
+    },
+    {
+      "id": "q-335",
+      "category": "By School – W2 HW G6",
+      "prompt": "Ergänze die Tabelle (wollen): ihr __________",
+      "options": ["wollen", "wollt", "willst", "will"],
+      "correctIndex": 1,
+      "explanation": "Richtige Antwort: B. wollt"
+    },
+    {
+      "id": "q-336",
+      "category": "By School – W2 HW G6",
+      "prompt": "Ergänze die Tabelle (können): sie (Plural) __________",
+      "options": ["kann", "könnt", "können", "kannst"],
+      "correctIndex": 2,
+      "explanation": "Richtige Antwort: C. können"
+    },
+    {
+      "id": "q-337",
+      "category": "By School – W2 HW G6",
+      "prompt": "Ergänze die Tabelle (wollen): sie (Plural) __________",
+      "options": ["will", "wollt", "willst", "wollen"],
+      "correctIndex": 3,
+      "explanation": "Richtige Antwort: D. wollen"
+    },
+    {
+      "id": "q-338",
+      "category": "By School – W2 HW G6",
+      "prompt": "Ergänze die Tabelle (können): Sie __________",
+      "options": ["können", "kann", "könnt", "kannst"],
+      "correctIndex": 0,
+      "explanation": "Richtige Antwort: A. können"
+    },
+    {
+      "id": "q-339",
+      "category": "By School – W2 HW G6",
+      "prompt": "Ergänze die Tabelle (müssen): Sie __________",
+      "options": ["muss", "müssen", "müsst", "musst"],
+      "correctIndex": 1,
+      "explanation": "Richtige Antwort: B. müssen"
+    },
+    {
+      "id": "q-340",
+      "category": "By School – W2 HW G6",
+      "prompt": "Ergänze die Tabelle (wollen): Sie __________",
+      "options": ["will", "wollt", "wollen", "willst"],
+      "correctIndex": 2,
+      "explanation": "Richtige Antwort: C. wollen"
+    },
+    {
+      "id": "q-341",
+      "category": "By School – W2 HW G6",
+      "prompt": "Bilde Sätze: ich • heute Abend • wollen • gehen • ins Kino",
+      "options": [
+        "Ich will heute Abend ins Kino gehen.",
+        "Ich wollen heute Abend ins Kino gehen.",
+        "Ich will gehen heute Abend ins Kino.",
+        "Ich heute Abend will ins Kino gehen."
+      ],
+      "correctIndex": 0,
+      "explanation": "Richtige Antwort: A. Ich will heute Abend ins Kino gehen."
+    },
+    {
+      "id": "q-342",
+      "category": "By School – W2 HW G6",
+      "prompt": "Bilde Sätze: Tina • zu Hause • heute • müssen • bleiben",
+      "options": [
+        "Tina müssen heute zu Hause bleiben.",
+        "Tina muss heute zu Hause bleiben.",
+        "Tina muss bleiben heute zu Hause.",
+        "Tina heute zu Hause muss bleiben."
+      ],
+      "correctIndex": 1,
+      "explanation": "Richtige Antwort: B. Tina muss heute zu Hause bleiben."
+    },
+    {
+      "id": "q-343",
+      "category": "By School – W2 HW G6",
+      "prompt": "Bilde Sätze: Herr Meier • Englisch sprechen • können • nicht",
+      "options": [
+        "Herr Meier können nicht Englisch sprechen.",
+        "Herr Meier kann Englisch sprechen nicht.",
+        "Herr Meier kann nicht Englisch sprechen.",
+        "Herr Meier nicht kann Englisch sprechen."
+      ],
+      "correctIndex": 2,
+      "explanation": "Richtige Antwort: C. Herr Meier kann nicht Englisch sprechen."
+    },
+    {
+      "id": "q-344",
+      "category": "By School – W2 HW G6",
+      "prompt": "Bilde Sätze: wir • besuchen • wollen • einen Skikurs",
+      "options": [
+        "Wir will einen Skikurs besuchen.",
+        "Wir wollen besuchen einen Skikurs.",
+        "Wir einen Skikurs wollen besuchen.",
+        "Wir wollen einen Skikurs besuchen."
+      ],
+      "correctIndex": 3,
+      "explanation": "Richtige Antwort: D. Wir wollen einen Skikurs besuchen."
+    },
+    {
+      "id": "q-345",
+      "category": "By School – W2 HW G6",
+      "prompt": "Bilde Sätze: Tina • Tennis spielen • wollen • und • in den Tennisclub • gehen",
+      "options": [
+        "Tina will Tennis spielen und in den Tennisclub gehen.",
+        "Tina wollen Tennis spielen und in den Tennisclub gehen.",
+        "Tina will spielen Tennis und gehen in den Tennisclub.",
+        "Tina Tennis spielen will und in den Tennisclub gehen."
+      ],
+      "correctIndex": 0,
+      "explanation": "Richtige Antwort: A. Tina will Tennis spielen und in den Tennisclub gehen."
+    },
+    {
+      "id": "q-346",
+      "category": "By School – W2 HW G6",
+      "prompt": "können, wollen oder müssen? Ich __________ nicht Ski fahren, aber ich __________ es lernen.",
+      "options": ["kann ... will", "muss ... kann", "will ... muss", "kannst ... willst"],
+      "correctIndex": 0,
+      "explanation": "Richtige Antwort: A. kann ... will"
+    },
+    {
+      "id": "q-347",
+      "category": "By School – W2 HW G6",
+      "prompt": "können, wollen oder müssen? Max __________ heute nicht kommen. Er __________ noch lernen.",
+      "options": ["will ... kann", "kann ... muss", "muss ... will", "können ... müssen"],
+      "correctIndex": 1,
+      "explanation": "Richtige Antwort: B. kann ... muss"
+    },
+    {
+      "id": "q-348",
+      "category": "By School – W2 HW G6",
+      "prompt": "können, wollen oder müssen? __________ ich bitte dein Handy nehmen?",
+      "options": ["Kann", "Muss", "Will", "Können"],
+      "correctIndex": 0,
+      "explanation": "Richtige Antwort: A. Kann"
+    },
+    {
+      "id": "q-349",
+      "category": "By School – W2 HW G6",
+      "prompt": "können, wollen oder müssen? Sara __________ Deutsch lernen. Sie __________ also einen Deutschkurs besuchen.",
+      "options": ["kann ... will", "will ... muss", "muss ... kann", "wollen ... müssen"],
+      "correctIndex": 1,
+      "explanation": "Richtige Antwort: B. will ... muss"
+    },
+    {
+      "id": "q-350",
+      "category": "By School – W2 HW G6",
+      "prompt": "können, wollen oder müssen? __________ wir heute Abend ins Kino gehen?",
+      "options": ["Müssen", "Will", "Wollen", "Kann"],
+      "correctIndex": 2,
+      "explanation": "Richtige Antwort: C. Wollen"
+    },
+    {
+      "id": "q-351",
+      "category": "By School – W2 HW G6",
+      "prompt": "können, wollen oder müssen? Es ist schon spät. Ich __________ jetzt nach Hause gehen.",
+      "options": ["kann", "will", "müssen", "muss"],
+      "correctIndex": 3,
+      "explanation": "Richtige Antwort: D. muss"
+    }
+  ]
+}
